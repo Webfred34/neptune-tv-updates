@@ -1,1 +1,1 @@
-{"versionCode": 217, "versionName": "1.0.217", "changelog": "- Correction de bugs d'affichage\n- Amélioration de la gestion Stalker"}
+{"versionCode": 220, "versionName": "1.0.220", "changelog": "- Fix pour la gestion UTF-8\n- Ajout Date/Heure dans Menu Principal\n  (Demande de Maxime) "}
