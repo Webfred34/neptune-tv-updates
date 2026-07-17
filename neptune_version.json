@@ -1,1 +1,1 @@
-{"versionCode": 220, "versionName": "1.0.220", "changelog": "- Fix pour la gestion UTF-8\n- Ajout Date/Heure dans Menu Principal\n  (Demande de Maxime) "}
+{"versionCode": 225, "versionName": "1.0.225", "changelog": "- Quelques Fix cosmétiques\n- Ajout infos Wifi dans Webif\n- Modifs infos RAM/Stockage dans Webif\n- Simplification process de restauration  "}
