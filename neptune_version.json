@@ -1,1 +1,1 @@
-{"versionCode": 232, "versionName": "1.0.232", "changelog": "- Ajout d'un watchdog pour gérer les freezes\n- Ajout option Zoom/Etirer dans l'overlay"}
+{"versionCode": 234, "versionName": "1.0.234", "changelog": "- Contournement bug Maj par Playtore\n- Ajout envoi fond d'écran perso par Webif\n- Fix Watchdog pour détection coupure réseau"}
