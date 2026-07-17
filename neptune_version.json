@@ -1,1 +1,1 @@
-{"versionCode": 225, "versionName": "1.0.225", "changelog": "- Quelques Fix cosmétiques\n- Ajout infos Wifi dans Webif\n- Modifs infos RAM/Stockage dans Webif\n- Simplification process de restauration  "}
+{"versionCode": 232, "versionName": "1.0.232", "changelog": "- Ajout d'un watchdog pour gérer les freezes\n- Ajout option Zoom/Etirer dans l'overlay"}
