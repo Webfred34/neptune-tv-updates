@@ -1,1 +1,1 @@
-{"versionCode": 259, "versionName": "1.0.259", "changelog": "- Ajout Bande Annonce dans la fiche des films\n  (Xtream et M3U si le lien IMDB est dispo)"}
+{"versionCode": 259, "versionName": "1.0.259", "changelog": "- Ajout Numérotion liste de chaines dans paramètres\n  Possibilité de Zapper sur une chaine par Son N°\n  en mode plein écran uniquement (TV et favoris)\n- Ajout Bande Annonce dans la fiche des films\n  (Xtream et M3U si le lien IMDB est dispo)"}
