@@ -1,1 +1,1 @@
-{"versionCode": "200", "versionName": "1.0.200", "changelog": "- Ajout Numérotion liste de chaines (Paramètres)\n  Possibilité de Zapper sur un N° de chaine\n  en mode plein écran uniquement\n- Ajout Bande Annonce dans la fiche des films\n  (Xtream et M3U si le lien IMDB est dispo)"}
+{"versionCode": "305", "versionName": "1.0.305", "changelog": "- Ajout Alerte Programme TV (Paramètres)\n  Selection du programme dans EPG\n  puis envoi vers Ma liste\n  Lire Documentation section Ma Liste"}
