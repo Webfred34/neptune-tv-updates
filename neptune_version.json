@@ -1,1 +1,1 @@
-{"versionCode": "305", "versionName": "1.0.305", "changelog": "- Ajout Alerte Programme TV (Paramètres)\n  Selection du programme dans EPG\n  puis envoi vers Ma liste\n  Lire Documentation section Ma Liste"}
+{"versionCode": "314", "versionName": "1.0.314", "changelog": "- Ajout de la gestion NAS sur le réseau Local\n  Merci Grincheux d'avoir proposé cette évolution\n  1ère version pour test"}
