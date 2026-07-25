@@ -1,1 +1,1 @@
-{"versionCode": "314", "versionName": "1.0.314", "changelog": "- Ajout de la gestion NAS sur le réseau Local\n  Merci Grincheux d'avoir proposé cette évolution\n  1ère version pour test"}
+{"versionCode": "333", "versionName": "1.0.333", "changelog": "- Modification de la gestion NAS/USB\n  Possibilité de sélectionner un NAS ou un stockage USB\n  Gestion des fichiers Audio FLAC en plus des fichiers vidéo (MKV, MP4)"}
