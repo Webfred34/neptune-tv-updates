@@ -1,1 +1,1 @@
-{"versionCode": "336", "versionName": "1.0.338", "changelog": "> Gestion des NAS\n  Ajout Logs lors de la détection/connexion NAS"}
+{"versionCode": "341", "versionName": "1.0.341", "changelog": "> Gestion des NAS\n  Ajout Logs lors de la détection/connexion NAS\n  Ajout donnée Nom de Domaine\n  Restructuration du formulaire de détection auto\n  Ajout option pour afficher le password"}
