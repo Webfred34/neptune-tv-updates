@@ -1,1 +1,1 @@
-{"versionCode": "354", "versionName": "1.0.354", "changelog": "> Gestion des NAS\n  Fix encodage des caractères spéciaux dans le password"}
+{"versionCode": "361", "versionName": "1.0.361", "changelog": "> Gestion des NAS\n  Ajout gestion NAS pour BBOX Internet Bouygues en SMB 3.1.1"}
