@@ -1,1 +1,1 @@
-{"versionCode": "349", "versionName": "1.0.349", "changelog": "> Gestion des NAS\n  Ajout Logs lors de la détection/connexion NAS\n  Ajout donnée Nom de Domaine\n  Restructuration du formulaire de détection auto\n  Ajout option pour afficher le password\n> Refonte de la Doc et du menu Paramètres"}
+{"versionCode": "354", "versionName": "1.0.354", "changelog": "> Gestion des NAS\n  Fix encodage des caractères spéciaux dans le password"}
