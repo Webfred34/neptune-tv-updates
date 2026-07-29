@@ -1,1 +1,1 @@
-{"versionCode": "367", "versionName": "1.0.367", "changelog": ">Modifications Webif :\n  Possibilité de déplacer les Playlists par Drag & Drop dans le Webif"}
+{"versionCode": "400", "versionName": "1.0.400", "changelog": ">Evolution sur la navigation en plein écran pour les chaines TV :\n  La touche Flèche Droite affiche la liste de chaines en cours sans quitter le live\n  La touche Flèche Gauche affiche l'historique du ZAP sans quiteer le live\n  Fonctionne aussi avec les touche CH+/CH- ou PageUP/PageDown\n  >>LISEZ LA DOC DANS PARAMETRES POUR PLUS DE DETAILS"}
