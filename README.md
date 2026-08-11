@@ -50,6 +50,8 @@ Your login credentials and preferences remain stored only on your device.
 
 <img width="712" height="404" alt="image" src="https://github.com/user-attachments/assets/84acc7f3-0a7b-4536-bca5-e3b1eaeee8c7" />
 
+<img width="712" height="404" alt="image" src="https://github.com/user-attachments/assets/9d3349aa-9472-4607-941a-78952767f904" />
+
 <img width="712" height="404" alt="image" src="https://github.com/user-attachments/assets/285e38f7-d7b7-4eae-9df6-220b9726cad0" />
 
 <img width="712" height="404" alt="image" src="https://github.com/user-attachments/assets/b665dad8-bf61-446c-b2f3-5a2d33735bb0" />
