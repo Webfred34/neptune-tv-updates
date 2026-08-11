@@ -80,6 +80,9 @@ Your login credentials and preferences remain stored only on your device.
 
 <img width="712" height="404" alt="image" src="https://github.com/user-attachments/assets/cf21caea-75a5-4a2f-bed5-3bbc3cc9a7c4" />
 
+<img width="312" height="639" alt="image" src="https://github.com/user-attachments/assets/4b0295a2-90f3-4410-aeca-fb8f9df20cf7" />
+
+
 
 
 
