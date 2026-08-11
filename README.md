@@ -41,3 +41,6 @@ An app made by a user, for users! The best for free!
 PRIVACY:
 No personal data is collected or transmitted to third-party servers.
 Your login credentials and preferences remain stored only on your device.
+
+<img width="712" height="404" alt="image" src="https://github.com/user-attachments/assets/a6a84a12-5f58-41a8-93e7-ae5e8d98ce2a" />
+
