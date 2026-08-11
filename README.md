@@ -44,3 +44,6 @@ Your login credentials and preferences remain stored only on your device.
 
 <img width="712" height="404" alt="image" src="https://github.com/user-attachments/assets/a6a84a12-5f58-41a8-93e7-ae5e8d98ce2a" />
 
+<img width="712" height="404" alt="image" src="https://github.com/user-attachments/assets/0e446c4d-eafd-41bd-b227-b59f27e577eb" />
+
+
