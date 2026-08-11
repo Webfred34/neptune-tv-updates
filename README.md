@@ -1,3 +1,5 @@
+<img width="512" height="512" alt="icon-512" src="https://github.com/user-attachments/assets/fc4e5f34-a980-497c-94f7-0796d6a15c7f" />
+
 Neptune TV is a native media player for Android TV/Google TV
 (Does not work with Android Mobile on Phones/Tablets)
 
