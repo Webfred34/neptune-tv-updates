@@ -2,7 +2,7 @@
 
 
 Neptune TV is a native media player for Android TV/Google TV
-(Does not work with Android Mobile on Phones/Tablets)
+(it also works with Android Mobile on Phones/Tablets)
 
 Compatible with Xtream, Stalker and M3U/M3U_Plus protocols.
 Connect your server and enjoy an interface designed for users,
@@ -37,6 +37,7 @@ MAIN FEATURES:
 - Full backup and restore of your configuration via the Webif
 - Various themes and wallpapers available in the Settings menu
 - Customisable home screen wallpaper by uploading your own image via the Webif
+- Sport Guide
   
 Neptune TV is a COMPLETELY free application with no limitations and no recurring subscription.
 An app made by a user, for users! The best for free!
