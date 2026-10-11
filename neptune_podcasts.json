@@ -348,9 +348,50 @@
 		"image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a1/69/c2/a169c255-86e9-045b-c5ad-9ef3e1e5338a/mza_17928637573672855141.jpg/600x600bb.jpg"
         }
       ]
-	},
-	
-    {
+		},
+		{
+		"id": "skyrock",
+		"name": "Skyrock",
+		"shows": [
+        {
+		"title": "Planète Rap - L'intégrale",
+		"author": "Skyrock",
+		"feed": "https://feeds.audiomeans.fr/feed/d8c578c4-fcb4-4bd3-8d09-ef80e70ad7e2.xml",
+		"image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/59/1b/79591ba8-d7b7-226d-2260-765413ba00af/mza_9712449580175444249.jpg/600x600bb.jpg"
+		},
+		{
+		"title": "Radio Libre - L'intégrale",
+		"author": "Skyrock",
+		"feed": "https://feeds.audiomeans.fr/feed/2a0c61b7-a0b3-45d7-b09a-e60bf64f2bd0.xml",
+		"image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/59/31/2a/59312a6e-ed45-5435-5683-6e0047603eb9/mza_13381087351563345583.jpg/600x600bb.jpg"
+		},
+		{
+		"title": "Skyrock PLM",
+		"author": "Skyrock",
+		"feed": "https://feeds.audiomeans.fr/feed/e0b77e4c-9620-4a0f-b9a1-1ef44afb48a7.xml",
+		"image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d4/e8/a9/d4e8a928-90bc-ca6d-6f88-6fd759b5899c/mza_651553323811085819.jpg/600x600bb.jpg"
+		},
+		{
+		"title": "L’intégrale du Morning",
+		"author": "Skyrock",
+		"feed": "https://feeds.audiomeans.fr/feed/4613a456-faa9-4ae7-b50c-1e46c0f4a312.xml",
+		"image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/24/3d/2f/243d2f66-3591-c197-0c27-eb15a800b57d/mza_11418669333676389633.jpg/600x600bb.jpg"
+		},
+		{
+		"title": "Le réveil de star",
+		"author": "Skyrock",
+		"feed": "https://feeds.audiomeans.fr/feed/7521861c-6f97-4dbc-b810-ea1d9633b160.xml",
+		"image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/17/25/83/17258367-9eb4-3cc9-b3ec-ca5ba29b0163/mza_4590042736650417814.jpg/600x600bb.jpg"
+		},
+		{
+		"title": "La compil' du Morning",
+		"author": "Skyrock",
+		"feed": "https://feeds.audiomeans.fr/feed/defccc84-25b3-4848-a7e1-1a6e259c54b7.xml",
+		"image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d9/5f/09/d95f092c-05f1-091d-2fae-b43a54fde044/mza_7472163468557314998.png/600x600bb.jpg"
+		}
+      ]
+		},
+		{
       "id": "france_inter",
       "name": "France Inter",
       "shows": [
