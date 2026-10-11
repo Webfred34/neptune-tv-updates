@@ -387,7 +387,36 @@
       ]
 		},
 		
-		
+		{
+      "id": "bfm",
+      "name": "BFM",
+      "shows": [
+{
+  "title": "BFM Bourse",
+  "author": "BFM Business",
+  "feed": "https://feeds.simplecast.com/dCzX0hyl",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/31/80/78/3180787a-fc47-9437-c7e2-452d88190d19/mza_4193998614812459487.jpg/600x600bb.jpg"
+},
+{
+  "title": "BFM Politique",
+  "author": "BFMTV",
+  "feed": "https://feeds.simplecast.com/jGeeHPr8",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/05/19/44/05194435-cdc9-d3ee-099e-8ba7bd9e3f09/mza_6526109117693792226.jpg/600x600bb.jpg"
+},
+{
+  "title": "Podcast des Auto-Entrepreneurs",
+  "author": "BFM Business",
+  "feed": "https://feeds.simplecast.com/FnMZBUZB",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/57/aa/de/57aade17-6e04-253c-e627-cf32f9220908/mza_14267231035292767886.jpg/600x600bb.jpg"
+},
+{
+  "title": "Podcast des indépendants",
+  "author": "BFM Business",
+  "feed": "https://feeds.simplecast.com/BvZR02iV",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7a/11/c9/7a11c99a-1a7f-95dd-384b-12adfd3b3da2/mza_13098584102038954887.jpg/600x600bb.jpg"
+}
+      ]
+		},		
 		
 		{
 		"id": "skyrock",
