@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "info",
+      "name": "Info et actualité",
+      "shows": [
+        {
+          "title": "Les Matins de France Culture",
+          "author": "France Culture",
+          "feed": "https://radiofrance-podcast.net/podcast09/podcast_c415e197-8562-44ce-9a53-4e5846e0d855.xml"
+        },
+        {
+          "title": "Et maintenant ? 7h-9h",
+          "author": "France Culture",
+          "feed": "https://radiofrance-podcast.net/podcast09/podcast_9b964f04-fc48-4199-a01a-432c01e7f095.xml"
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "name": "Culture",
+      "shows": [
+        {
+          "title": "Bienvenue au Club",
+          "author": "France Culture",
+          "feed": "https://radiofrance-podcast.net/podcast09/podcast_3636fb5e-f433-4baf-a7da-4c2854482dab.xml"
+        },
+        {
+          "title": "La Série musicale",
+          "author": "France Culture",
+          "feed": "https://radiofrance-podcast.net/podcast09/podcast_d8935383-5331-4c40-b58b-3f3f2f47a320.xml"
+        },
+        {
+          "title": "Les Nuits de France Culture",
+          "author": "France Culture",
+          "feed": "https://radiofrance-podcast.net/podcast09/podcast_4ff3693f-6e66-11e5-8e9e-005056a87c89.xml"
+        }
+      ]
+    },
+    {
+      "id": "histoire",
+      "name": "Histoire et savoirs",
+      "shows": [
+        {
+          "title": "Une histoire de...",
+          "author": "France Culture",
+          "feed": "https://radiofrance-podcast.net/podcast09/podcast_614dcf4f-4039-494d-bc11-b95ceda4ea08.xml"
+        },
+        {
+          "title": "Avoir raison avec...",
+          "author": "France Culture",
+          "feed": "https://radiofrance-podcast.net/podcast09/podcast_d0620953-0f73-4cc5-9653-8a936be9cef9.xml"
+        }
+      ]
+    },
+    {
+      "id": "jeunesse",
+      "name": "Jeunesse",
+      "shows": [
+        {
+          "title": "franceinfo junior",
+          "author": "franceinfo",
+          "feed": "https://radiofrance-podcast.net/podcast09/podcast_d8706bf1-54bf-4402-a1dd-85192a374d43.xml"
+        }
+      ]
+    }
+  ]
+}
