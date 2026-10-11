@@ -95,6 +95,12 @@
           "feed": "https://feeds.audiomeans.fr/feed/5799f0c0-d531-402b-8c09-14671fcccfb7.xml",
           "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9b/7a/55/9b7a556d-0fb9-7dda-ea11-165f63dc0c7c/mza_1974649868172344397.jpg/600x600bb.jpg"
         },
+		{
+		"title": "Au Coeur du Crime",
+		"author": "Europe1",
+		"feed": "https://feeds.audiomeans.fr/feed/0b81db9c-9ba5-4faa-921c-3ae8ab7d15e2.xml",
+		"image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/36/df/3d/36df3d01-d518-a87b-e983-84985856bce4/mza_10916289766765414836.jpg/600x600bb.jpg"
+		},
         {
           "title": "Julia de Funès - Les signatures d'Europe 1",
           "author": "Europe 1",
