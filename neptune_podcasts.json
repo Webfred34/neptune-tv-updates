@@ -2,98 +2,464 @@
   "version": 1,
   "categories": [
     {
-      "id": "info",
-      "name": "Info et actualité",
+      "id": "france_inter",
+      "name": "France Inter",
       "shows": [
         {
-          "title": "Les Matins de France Culture",
-          "author": "France Culture",
-          "feed": "https://radiofrance-podcast.net/podcast09/podcast_c415e197-8562-44ce-9a53-4e5846e0d855.xml"
-        },
-        {
-          "title": "Et maintenant ? 7h-9h",
-          "author": "France Culture",
-          "feed": "https://radiofrance-podcast.net/podcast09/podcast_9b964f04-fc48-4199-a01a-432c01e7f095.xml"
-        }
-      ]
-    },
-    {
-      "id": "culture",
-      "name": "Culture",
-      "shows": [
-        {
-          "title": "Bienvenue au Club",
-          "author": "France Culture",
-          "feed": "https://radiofrance-podcast.net/podcast09/podcast_3636fb5e-f433-4baf-a7da-4c2854482dab.xml"
-        },
-        {
-          "title": "La Série musicale",
-          "author": "France Culture",
-          "feed": "https://radiofrance-podcast.net/podcast09/podcast_d8935383-5331-4c40-b58b-3f3f2f47a320.xml"
-        },
-        {
-          "title": "Les Nuits de France Culture",
-          "author": "France Culture",
-          "feed": "https://radiofrance-podcast.net/podcast09/podcast_4ff3693f-6e66-11e5-8e9e-005056a87c89.xml"
-        },
-        {
-          "title": "Le Masque et la Plume",
+          "title": "Affaires sensibles",
           "author": "France Inter",
-          "feed": "https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/podcast_c266b241-3ed9-47ed-912f-4eabdc2f0275.xml"
+          "feed": "https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/podcast_0b91efaf-26e6-11e4-907f-782bcb6744eb.xml"
+        },
+        {
+          "title": "Grand bien vous fasse !",
+          "author": "France Inter",
+          "feed": "https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/podcast_194ca105-7251-497d-b77e-857503381f5c.xml"
+        },
+        {
+          "title": "La grande matinale",
+          "author": "France Inter",
+          "feed": "https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/podcast_e8e15473-5871-4bba-907c-c12ba36cadbe.xml"
+        },
+        {
+          "title": "Face à l'histoire",
+          "author": "France Inter",
+          "feed": "https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/podcast_277f5490-3243-410b-ac05-ad8ecea5b5be.xml"
+        },
+        {
+          "title": "Le meilleur de l'histoire",
+          "author": "France Inter",
+          "feed": "https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/podcast_ef1c296b-8a18-4d57-8a0d-6344a9b77d8f.xml"
+        },
+        {
+          "title": "Le Billet de Mosimann",
+          "author": "France Inter",
+          "feed": "https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/podcast_df2c7483-c3aa-4d36-8be1-abf825d2563a.xml"
+        },
+        {
+          "title": "Recto-Verso",
+          "author": "France Inter",
+          "feed": "https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/podcast_91a3fce3-9112-4f50-b529-4ccb09549059.xml"
+        },
+        {
+          "title": "Zoom Zoom Zen",
+          "author": "France Inter",
+          "feed": "https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/podcast_9c7ba162-d528-46e6-be4e-9140d60fc2c1.xml"
+        },
+        {
+          "title": "Le Fil de l'histoire",
+          "author": "France Inter",
+          "feed": "https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/podcast_f05df399-4c21-4c1d-a6ea-a0bbe661dcdf.xml"
+        },
+        {
+          "title": "Femmes d'exception",
+          "author": "France Inter",
+          "feed": "https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/podcast_1c2b73f6-31e1-486e-9695-8ada5beaee8e.xml"
+        },
+        {
+          "title": "Le Grand Face-à-face",
+          "author": "France Inter",
+          "feed": "https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/podcast_f71d72aa-d162-4efb-8fb4-dd6ba4f91467.xml"
+        },
+        {
+          "title": "Franc-jeu",
+          "author": "France Inter",
+          "feed": "https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/podcast_68bfbcb3-1ca6-4454-96b4-c07bab221829.xml"
         }
       ]
     },
     {
-      "id": "histoire",
-      "name": "Histoire et savoirs",
+      "id": "franceinfo",
+      "name": "franceinfo",
       "shows": [
         {
-          "title": "Une histoire de...",
-          "author": "France Culture",
-          "feed": "https://radiofrance-podcast.net/podcast09/podcast_614dcf4f-4039-494d-bc11-b95ceda4ea08.xml"
+          "title": "Les informés du matin",
+          "author": "franceinfo",
+          "feed": "https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/podcast_85d43c38-e706-4ad4-bcd9-62fb0f23d314.xml"
         },
-        {
-          "title": "Avoir raison avec...",
-          "author": "France Culture",
-          "feed": "https://radiofrance-podcast.net/podcast09/podcast_d0620953-0f73-4cc5-9653-8a936be9cef9.xml"
-        },
-        {
-          "title": "Hondelatte Raconte",
-          "author": "Europe 1",
-          "feed": "https://feeds.audiomeans.fr/feed/7773697e-dd5d-4650-808b-158712520883.xml"
-        }
-      ]
-    },
-    {
-      "id": "jeunesse",
-      "name": "Jeunesse",
-      "shows": [
         {
           "title": "franceinfo junior",
           "author": "franceinfo",
-          "feed": "https://radiofrance-podcast.net/podcast09/podcast_d8706bf1-54bf-4402-a1dd-85192a374d43.xml"
+          "feed": "https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/podcast_d8706bf1-54bf-4402-a1dd-85192a374d43.xml"
+        },
+        {
+          "title": "Le vrai ou faux junior",
+          "author": "franceinfo",
+          "feed": "https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/podcast_39fe108d-8ba1-46f6-b76c-95135f784043.xml"
+        },
+        {
+          "title": "Le vrai ou faux",
+          "author": "franceinfo",
+          "feed": "https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/podcast_eb76878a-d2e7-4930-a6e1-192c7ba60448.xml"
+        },
+        {
+          "title": "On/Off",
+          "author": "franceinfo",
+          "feed": "https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/podcast_ab6c27e6-93e5-4b8d-abd3-b1c21b12d83e.xml"
+        },
+        {
+          "title": "Salut l'info !",
+          "author": "franceinfo",
+          "feed": "https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/podcast_9f5486b0-38b5-4544-bf49-e24b18bd022c.xml"
+        },
+        {
+          "title": "Dans les yeux d'Agathe",
+          "author": "franceinfo",
+          "feed": "https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/podcast_cdf1436f-ba60-45d3-9306-cbc24b1a98e9.xml"
+        },
+        {
+          "title": "Le brief politique",
+          "author": "franceinfo",
+          "feed": "https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/podcast_f72a54a3-d381-40a1-9d24-28abd71c89d1.xml"
+        },
+        {
+          "title": "Les informés de franceinfo",
+          "author": "franceinfo",
+          "feed": "https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/podcast_28147243-2a52-4fc0-a01f-637d8f300f6b.xml"
+        },
+        {
+          "title": "L'empire des séries",
+          "author": "franceinfo",
+          "feed": "https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/podcast_0979384f-7347-4305-a485-24f4fb352f0f.xml"
+        },
+        {
+          "title": "Entre les lignes (2021-2024)",
+          "author": "franceinfo",
+          "feed": "https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/podcast_f3d29ef2-29c9-4b06-b2c6-2bdaba812b53.xml"
+        },
+        {
+          "title": "Ça dit quoi ?",
+          "author": "franceinfo",
+          "feed": "https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/podcast_8149e0c1-1d27-4a7a-b3da-13307d91a8a2.xml"
         }
       ]
     },
     {
-      "id": "policier",
-      "name": "Policier et enquête",
+      "id": "france_culture",
+      "name": "France Culture",
       "shows": [
         {
-          "title": "L'Heure du Crime",
+          "title": "Le Cours de l'histoire",
+          "author": "France Culture",
+          "feed": "https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/podcast_c951e8a9-6121-4400-a3ef-5f9c958d36c3.xml"
+        },
+        {
+          "title": "LSD, la série documentaire",
+          "author": "France Culture",
+          "feed": "https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/podcast_fb8db8c6-20b0-4189-977e-07f112c3de79.xml"
+        },
+        {
+          "title": "Les pieds sur terre",
+          "author": "France Culture",
+          "feed": "https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/podcast_14303c46-3c2f-486f-a063-fadf9719bff3.xml"
+        },
+        {
+          "title": "Avec philosophie",
+          "author": "France Culture",
+          "feed": "https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/podcast_b073d78c-d0d6-4910-b2e1-f9b370158a12.xml"
+        },
+        {
+          "title": "Concordance des temps",
+          "author": "France Culture",
+          "feed": "https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/podcast_d88dae25-44df-11e5-9fe0-005056a87c89.xml"
+        },
+        {
+          "title": "Affaires étrangères",
+          "author": "France Culture",
+          "feed": "https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/podcast_90382906-44e0-11e5-9fe0-005056a87c89.xml"
+        },
+        {
+          "title": "La Conversation scientifique",
+          "author": "France Culture",
+          "feed": "https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/podcast_d47d3c2b-44e3-11e5-9fe0-005056a87c89.xml"
+        },
+        {
+          "title": "La Fabrique de l'information",
+          "author": "France Culture",
+          "feed": "https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/podcast_2fe9234a-31ab-413e-9605-48cd85b1a4cf.xml"
+        },
+        {
+          "title": "Les Grandes Traversées",
+          "author": "France Culture",
+          "feed": "https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/podcast_21964aef-608c-48a2-84f1-d3c6039f279a.xml"
+        },
+        {
+          "title": "Questions du soir : l'idée",
+          "author": "France Culture",
+          "feed": "https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/podcast_18d2d677-e679-453c-aec9-76ddef22ddb4.xml"
+        },
+        {
+          "title": "Les Matins de France Culture",
+          "author": "France Culture",
+          "feed": "https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/podcast_c415e197-8562-44ce-9a53-4e5846e0d855.xml"
+        },
+        {
+          "title": "Etre et savoir",
+          "author": "France Culture",
+          "feed": "https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/podcast_1b064acd-c5f7-4d13-8e9e-cd443fa998dd.xml"
+        }
+      ]
+    },
+    {
+      "id": "rtl",
+      "name": "RTL",
+      "shows": [
+        {
+          "title": "Les Grosses Têtes",
           "author": "RTL",
-          "feed": "https://feeds.audiomeans.fr/feed/de5ba943-e720-4988-a518-40404f231ff3.xml"
+          "feed": "https://feeds.audiomeans.fr/feed/d7c6111b-04c1-46bc-b74c-d941a90d37fb.xml"
+        },
+        {
+          "title": "Face à Fogiel",
+          "author": "RTL",
+          "feed": "https://feeds.audiomeans.fr/feed/24744f84-4dca-47b6-a822-e2a9fdb9b87e.xml"
+        },
+        {
+          "title": "Confidentiel",
+          "author": "RTL",
+          "feed": "https://feeds.audiomeans.fr/feed/0901b76f-e445-4814-a574-cd5dd0c9ebd3.xml"
+        },
+        {
+          "title": "Tous les goûts sont permis",
+          "author": "RTL",
+          "feed": "https://feeds.audiomeans.fr/feed/7c0212f8-55a6-4e0f-aad6-008bafa62026.xml"
+        },
+        {
+          "title": "Le grand récit",
+          "author": "RTL",
+          "feed": "https://feeds.audiomeans.fr/feed/4eca7c15-3bb8-47b0-bbb2-4cfd35dd5cc1.xml"
+        },
+        {
+          "title": "L'invité d'Anne-Sophie Lapix",
+          "author": "RTL",
+          "feed": "https://feeds.audiomeans.fr/feed/62b7ca04-d68b-42e6-bbbd-26bb11e39c97.xml"
+        },
+        {
+          "title": "Un jour, une vie",
+          "author": "RTL",
+          "feed": "https://feeds.audiomeans.fr/feed/a8b59eda-172d-48a3-8323-2556b0af6aa2.xml"
+        },
+        {
+          "title": "L'œil de Philippe Caverivière",
+          "author": "RTL",
+          "feed": "https://feeds.audiomeans.fr/feed/01a5bd92-d6c8-4572-8092-88e4c9953cc9.xml"
+        },
+        {
+          "title": "Vous allez en entendre parler",
+          "author": "RTL",
+          "feed": "https://feeds.audiomeans.fr/feed/4c60fabe-f5e8-47c6-9cbf-161ecc69ea35.xml"
+        },
+        {
+          "title": "Le Trapenard du vendredi",
+          "author": "RTL",
+          "feed": "https://feeds.audiomeans.fr/feed/38f7a1c0-ca70-412e-93da-5bbdb4a9da19.xml"
+        },
+        {
+          "title": "Pastureau défait l'info",
+          "author": "RTL",
+          "feed": "https://feeds.audiomeans.fr/feed/82bda095-26f4-4657-a4ee-2e5ac2553c35.xml"
+        },
+        {
+          "title": "On refait la télé",
+          "author": "RTL",
+          "feed": "https://feeds.audiomeans.fr/feed/8dbd8cfa-ecfe-40bd-a1b3-164dbffd3455.xml"
         }
       ]
     },
     {
-      "id": "sciences",
-      "name": "Sciences et nature",
+      "id": "europe_1",
+      "name": "Europe 1",
       "shows": [
         {
-          "title": "La Terre au carré",
-          "author": "France Inter",
-          "feed": "https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/podcast_5e238698-941a-4afc-8883-dbecfda89821.xml"
+          "title": "Les histoires d'amour extraordinaires",
+          "author": "Europe 1",
+          "feed": "https://feeds.audiomeans.fr/feed/5799f0c0-d531-402b-8c09-14671fcccfb7.xml"
+        },
+        {
+          "title": "Julia de Funès - Les signatures d'Europe 1",
+          "author": "Europe 1",
+          "feed": "https://feeds.audiomeans.fr/feed/f8b2d34e-bd68-42e8-8774-248a159fbe8d.xml"
+        },
+        {
+          "title": "La Grande interview Europe 1 - CNews",
+          "author": "Europe 1",
+          "feed": "https://feeds.audiomeans.fr/feed/7dd2a532-d19a-46bb-9ac7-a5eefff10b62.xml"
+        },
+        {
+          "title": "Y'en aura pour tout le monde - Cauet",
+          "author": "Europe 1",
+          "feed": "https://feeds.audiomeans.fr/feed/0eb5aa0e-ca2f-4164-814a-4993e21b82d6.xml"
+        },
+        {
+          "title": "Libre antenne - Valérie Darmon",
+          "author": "Europe 1",
+          "feed": "https://feeds.audiomeans.fr/feed/0cfcdf47-1308-4f79-a9f1-2eb992eb94e2.xml"
+        },
+        {
+          "title": "Eugénie Bastié - Les signatures d'Europe 1",
+          "author": "Europe 1",
+          "feed": "https://feeds.audiomeans.fr/feed/f649a24a-afec-4c3b-b01d-985223ff1e74.xml"
+        },
+        {
+          "title": "Pascal Praud et vous",
+          "author": "Europe 1",
+          "feed": "https://feeds.audiomeans.fr/feed/4eb59437-8f7f-48ea-af03-6e091662eefc.xml"
+        },
+        {
+          "title": "L'édito politique d'Alexandre Devecchio",
+          "author": "Europe 1",
+          "feed": "https://feeds.audiomeans.fr/feed/a58f57cc-71b0-4e5b-a349-4a8ba3479f80.xml"
+        },
+        {
+          "title": "Athlètes de Dieu",
+          "author": "Europe 1",
+          "feed": "https://feeds.audiomeans.fr/feed/2c9f7ec6-c20e-4516-8b9b-afada308f6f7.xml"
+        },
+        {
+          "title": "Europe 1 Matin - Dimitri Pavlenko",
+          "author": "Europe 1",
+          "feed": "https://feeds.audiomeans.fr/feed/c5c3fed9-f17c-46d7-bcdb-791d9b1a3a21.xml"
+        },
+        {
+          "title": "Catherine Nay - Les signatures d'Europe 1",
+          "author": "Europe 1",
+          "feed": "https://feeds.audiomeans.fr/feed/95e1d793-0d86-46d2-a546-ec95d46c68cc.xml"
+        },
+        {
+          "title": "Et si on en parlait",
+          "author": "Europe 1",
+          "feed": "https://feeds.audiomeans.fr/feed/df8eaa13-10a0-4e1b-b319-882de787c63b.xml"
+        }
+      ]
+    },
+    {
+      "id": "rmc",
+      "name": "RMC",
+      "shows": [
+        {
+          "title": "L'After Foot",
+          "author": "RMC",
+          "feed": "https://feeds.simplecast.com/VVMraBM_"
+        },
+        {
+          "title": "Super Moscato Show",
+          "author": "RMC",
+          "feed": "https://feeds.simplecast.com/8bxI9MLf"
+        },
+        {
+          "title": "After Espagne",
+          "author": "RMC",
+          "feed": "https://feeds.simplecast.com/f72WBCw7"
+        },
+        {
+          "title": "Les Grandes Gueules du Sport",
+          "author": "RMC",
+          "feed": "https://feeds.simplecast.com/r7cNAbpD"
+        },
+        {
+          "title": "Rothen s'enflamme",
+          "author": "RMC",
+          "feed": "https://feeds.simplecast.com/Z04e1HPg"
+        },
+        {
+          "title": "Le Paddock RMC",
+          "author": "RMC",
+          "feed": "https://feeds.simplecast.com/Xx6lTMni"
+        },
+        {
+          "title": "Peloton RMC",
+          "author": "RMC",
+          "feed": "https://feeds.simplecast.com/T07kMXvU"
+        },
+        {
+          "title": "Court N°1",
+          "author": "RMC",
+          "feed": "https://feeds.simplecast.com/L7ICjc82"
+        },
+        {
+          "title": "After Italie",
+          "author": "RMC",
+          "feed": "https://feeds.simplecast.com/G63zSBzE"
+        },
+        {
+          "title": "RMC Fighter Club",
+          "author": "RMC",
+          "feed": "https://feeds.simplecast.com/Fh6skaEA"
+        },
+        {
+          "title": "After Angleterre",
+          "author": "RMC",
+          "feed": "https://feeds.simplecast.com/eCRYiiql"
+        },
+        {
+          "title": "After Allemagne",
+          "author": "RMC",
+          "feed": "https://feeds.simplecast.com/KGjrgtqy"
+        }
+      ]
+    },
+    {
+      "id": "rfi",
+      "name": "RFI",
+      "shows": [
+        {
+          "title": "Journal Monde",
+          "author": "RFI",
+          "feed": "https://apis.rfi.fr/products/get_product/fov-rfi-fr-get-journaux-podcast-v2-monde?token_application=975d23b8-7a07-11e8-9f62-005056a90194"
+        },
+        {
+          "title": "Débat du jour",
+          "author": "RFI",
+          "feed": "https://apis.rfi.fr/products/get_product/rfi_getpodcast_by_nid?token_application=975d23b8-7a07-11e8-9f62-005056a90194&program.entrepriseId=WB419-RFI-FR-20090930"
+        },
+        {
+          "title": "La marche du monde",
+          "author": "RFI",
+          "feed": "https://apis.rfi.fr/products/get_product/rfi_getpodcast_by_nid?token_application=975d23b8-7a07-11e8-9f62-005056a90194&program.entrepriseId=WB1289-RFI-FR-20090930"
+        },
+        {
+          "title": "Géopolitique",
+          "author": "RFI",
+          "feed": "https://apis.rfi.fr/products/get_product/rfi_getpodcast_by_nid?token_application=975d23b8-7a07-11e8-9f62-005056a90194&program.entrepriseId=WB1294-RFI-FR-20090930"
+        },
+        {
+          "title": "8 milliards de voisins",
+          "author": "RFI",
+          "feed": "https://apis.rfi.fr/products/get_product/rfi_getpodcast_by_nid?token_application=975d23b8-7a07-11e8-9f62-005056a90194&program.entrepriseId=WB288427-RFI-FR-20101025"
+        },
+        {
+          "title": "Priorité santé",
+          "author": "RFI",
+          "feed": "https://apis.rfi.fr/products/get_product/rfi_getpodcast_by_nid?token_application=975d23b8-7a07-11e8-9f62-005056a90194&program.entrepriseId=WB241-RFI-FR-20090930"
+        },
+        {
+          "title": "Reportage international",
+          "author": "RFI",
+          "feed": "https://apis.rfi.fr/products/get_product/rfi_getpodcast_by_nid?token_application=975d23b8-7a07-11e8-9f62-005056a90194&program.entrepriseId=WB10174-RFI-FR-20091012"
+        },
+        {
+          "title": "Grand reportage",
+          "author": "RFI",
+          "feed": "https://apis.rfi.fr/products/get_product/rfi_getpodcast_by_nid?token_application=975d23b8-7a07-11e8-9f62-005056a90194&program.entrepriseId=WB452-RFI-FR-20090930"
+        },
+        {
+          "title": "Le débat africain",
+          "author": "RFI",
+          "feed": "https://apis.rfi.fr/products/get_product/rfi_getpodcast_by_nid?token_application=975d23b8-7a07-11e8-9f62-005056a90194&program.entrepriseId=WB1443-RFI-FR-20090930"
+        },
+        {
+          "title": "Afrique, mémoires d'un continent",
+          "author": "RFI",
+          "feed": "https://apis.rfi.fr/products/get_product/rfi_getpodcast_by_nid?token_application=975d23b8-7a07-11e8-9f62-005056a90194&program.entrepriseId=WBMZ361098-RFI-FR-20240109"
+        },
+        {
+          "title": "Reportage Afrique",
+          "author": "RFI",
+          "feed": "https://apis.rfi.fr/products/get_product/rfi_getpodcast_by_nid?token_application=975d23b8-7a07-11e8-9f62-005056a90194&program.entrepriseId=WB10192-RFI-FR-20091012"
+        },
+        {
+          "title": "Décryptage",
+          "author": "RFI",
+          "feed": "https://apis.rfi.fr/products/get_product/rfi_getpodcast_by_nid?token_application=975d23b8-7a07-11e8-9f62-005056a90194&program.entrepriseId=WB955927-RFI-FR-20130510"
         }
       ]
     }
