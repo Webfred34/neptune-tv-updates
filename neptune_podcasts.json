@@ -349,6 +349,46 @@
         }
       ]
 		},
+		
+		{
+      "id": "rfm",
+      "name": "RFM",
+      "shows": [
+        {
+  "title": "RFM Party Mix avec Yann Muller",
+  "author": "RFM",
+  "feed": "https://feeds.audiomeans.fr/feed/c64d974c-d2f9-4e3a-87a0-4180052b9b12.xml",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/56/b9/b0/56b9b088-9160-67ec-53d5-c05510e3a23c/mza_2588150707312178031.jpg/600x600bb.jpg"
+},
+{
+  "title": "Les interviews du 16/20",
+  "author": "RFM",
+  "feed": "https://feeds.audiomeans.fr/feed/ffda1946-be15-40a0-8769-fe66b1cc4f16.xml",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8c/88/43/8c884341-aeb0-c2ae-4f18-0d27cd8d3d82/mza_5688953543011534597.jpg/600x600bb.jpg"
+},
+{
+  "title": "Le Meilleur des Réveils - Les podcasts",
+  "author": "RFM",
+  "feed": "https://feeds.audiomeans.fr/feed/8692aaa3-0c7c-4f15-b81f-e81197f250ed.xml?_=1",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/66/d4/83/66d48385-97c7-8a73-6f78-33534480b1cb/mza_10498195619645833717.jpg/600x600bb.jpg"
+},
+{
+  "title": "1 heure avec...",
+  "author": "RFM",
+  "feed": "https://feeds.audiomeans.fr/feed/5bc1d7c1-0099-4c2e-912f-cd8aa733bf42.xml",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7d/74/e7/7d74e7c7-d5fd-4362-09b1-acbed7df48cc/mza_15082067184992771458.jpg/600x600bb.jpg"
+},
+{
+  "title": "RFM Party 80 - Le podcast anniversaire",
+  "author": "RFM",
+  "feed": "https://feeds.audiomeans.fr/feed/93dbf60b-055e-46ac-b7be-0483297b6446.xml",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/66/78/fd/6678fd2f-4690-e7c7-7646-773bb36be62b/mza_3611626249862785320.jpg/600x600bb.jpg"
+}
+      ]
+		},
+		
+		
+		
 		{
 		"id": "skyrock",
 		"name": "Skyrock",
