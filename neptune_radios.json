@@ -2,235 +2,241 @@
   "version": 1,
   "stations": [
     {
-      "id": "france_inter",
-      "name": "France Inter",
-      "genre": "Généraliste",
-      "stream": "https://icecast.radiofrance.fr/franceinter-midfi.mp3",
-      "image": "https://upload.wikimedia.org/wikipedia/fr/3/39/France_Inter_logo.svg"
-    },
-    {
-      "id": "franceinfo",
-      "name": "franceinfo",
-      "genre": "Information",
-      "stream": "https://icecast.radiofrance.fr/franceinfo-midfi.mp3",
-      "image": "https://www.radiofrance.fr/s3/cruiser-production/2022/06/52e277e9-95f8-44c4-8fda-6dfabc337b12/1200x680_franceinfo-logo-rs.jpg"
-    },
-    {
-      "id": "rtl",
-      "name": "RTL",
-      "genre": "Généraliste",
-      "stream": "https://icecast.rtl.fr/rtl-1-44-128",
-      "image": "https://duckduckgo.com/i/035a5e15d396c67a.png"
-    },
-    {
-      "id": "europe_1",
-      "name": "Europe 1",
-      "genre": "Généraliste",
-      "stream": "https://europe1.lmn.fm/europe1.mp3",
-      "image": "https://db.radioline.fr/pictures/radio_fa64fea9b6ccd92e058ced3fa41f58f5/logo200.jpg"
-    },
-    {
-      "id": "rmc",
-      "name": "RMC",
-      "genre": "Généraliste",
-      "stream": "https://hls-rmc.nextradiotv.com/no_ssai/128k/media.m3u8",
-      "image": "https://yt3.ggpht.com/-56JILsUfbls/AAAAAAAAAAI/AAAAAAAAAAA/47vJXr02s6k/s900-c-k-no-mo-rj-c0xffffff/photo.jpg"
-    },
-    {
-      "id": "sud_radio",
-      "name": "Sud Radio",
-      "genre": "Généraliste",
-      "stream": "https://ice.creacast.com/sudradio",
-      "image": "https://www.sudradio.fr/wp-content/uploads/2019/06/cropped-favicon-180x180.png"
-    },
-    {
-      "id": "france_culture",
-      "name": "France Culture",
-      "genre": "Culture",
-      "stream": "https://icecast.radiofrance.fr/franceculture-midfi.mp3",
-      "image": "https://radioplayer.myradioendirect.fr/public/uploads/radio_img/france-culture/fb_cover.jpg"
-    },
-    {
-      "id": "france_musique",
-      "name": "France Musique",
-      "genre": "Classique",
-      "stream": "https://icecast.radiofrance.fr/francemusique-midfi.mp3",
-      "image": "https://charte.radiofrance.fr/images/francemusique/france-musique-avatar.png"
-    },
-    {
-      "id": "radio_classique",
-      "name": "Radio Classique",
-      "genre": "Classique",
-      "stream": "https://str0.creacast.com/classique1",
-      "image": "http://favicons.teamtailor-cdn.com/icon?size=80..120..200&url=https%3a%2f%2fwww.radioclassique.fr%2f"
-    },
-    {
-      "id": "fip",
-      "name": "FIP",
-      "genre": "Éclectique",
-      "stream": "https://icecast.radiofrance.fr/fip-midfi.mp3",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/FIP_logo_2021.svg"
-    },
-    {
-      "id": "mouv",
-      "name": "Mouv",
-      "genre": "Hip-hop",
-      "stream": "https://icecast.radiofrance.fr/mouv-midfi.mp3",
-      "image": "https://charte.radiofrance.fr/images/mouv/mouv-avatar.png"
-    },
-    {
-      "id": "rfi",
-      "name": "RFI",
-      "genre": "Monde",
-      "stream": "http://live02.rfi.fr/rfirusse-96k.mp3",
-      "image": "http://ru.rfi.fr/android-chrome-192x192.png"
-    },
-    {
-      "id": "nrj",
-      "name": "NRJ",
-      "genre": "Hits",
-      "stream": "https://streaming.nrjaudio.fm/ou5k6tirv93h"
-    },
-    {
-      "id": "skyrock",
-      "name": "Skyrock",
-      "genre": "Rap",
-      "stream": "https://icecast.skyrock.net/s/natio_mp3_128k",
-      "image": "https://play-lh.googleusercontent.com/dPiQ01OUKZVfRZUbbb-EVK5g9miS_K-xrxHgmBbynGG-GQ53yt3GzFKr0zUTnb-xswQ=s200-rw"
-    },
-    {
-      "id": "fun_radio",
-      "name": "Fun Radio",
-      "genre": "Dance",
-      "stream": "https://icecast.funradio.fr/fun-1-44-128",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Logo_Fun_Radio_%282021%29.svg/langfr-1280px-Logo_Fun_Radio_%282021%29.svg.png"
-    },
-    {
-      "id": "virgin_radio",
-      "name": "Virgin Radio",
-      "genre": "Rock & pop",
-      "stream": "http://virageradio.ice.infomaniak.ch/virageradio-natio.mp3"
-    },
-    {
-      "id": "rtl2",
-      "name": "RTL2",
-      "genre": "Pop-rock",
-      "stream": "http://icecast.rtl2.fr/rtl2-1-44-128?listen=webCwsBCggNCQgLDQUGBAcGBg"
-    },
-    {
-      "id": "nostalgie",
-      "name": "Nostalgie",
-      "genre": "Années 80",
-      "stream": "https://streaming.nrjaudio.fm/oug7girb92oc?origine=fluxradios",
-      "image": "https://img.nrj.fr/L3zosrZkW7lmgFtxF9yG8USZq6c=/medias%2F2022%2F02%2F62150f1f4ce26_62150f240ef6d.svg"
-    },
-    {
-      "id": "ch_rie_fm",
-      "name": "Chérie FM",
-      "genre": "Variété",
-      "stream": "https://cdnradio.streamakaci.com/cheriefm1.mp3",
-      "image": "https://media.info/l/o/6/6812.1503485369.png"
-    },
-    {
-      "id": "rfm",
-      "name": "RFM",
-      "genre": "Variété",
-      "stream": "http://stream.rfm.fr/rfm.mp3",
-      "image": "http://cdn-rfm.lanmedia.fr/apple-touch-icon-120x120.png"
-    },
-    {
-      "id": "rire_et_chansons",
-      "name": "Rire et Chansons",
-      "genre": "Humour",
-      "stream": "https://streaming.nrjaudio.fm/ou8o8xgk7oiu?origine=fluxradios",
-      "image": "https://img.nrj.fr/OImjPWH1tkT1NaUMPlxsY49g9BI=/medias%2F2024%2F03%2Fvvscnx9i3yteabtkx8nlpdusmqj6uo8hshh9iphoit8_65fbfe026c3a5.png"
-    },
-    {
-      "id": "radio_nova",
-      "name": "Radio Nova",
-      "genre": "Éclectique",
-      "stream": "https://novazz.ice.infomaniak.ch/novazz-128.mp3",
-      "image": "https://www.nova.fr/wp-content/uploads/sites/2/2020/10/NOVA_CARD_HD.png?resize=560%2C664&quality=75"
-    },
-    {
-      "id": "tsf_jazz",
-      "name": "TSF Jazz",
-      "genre": "Jazz",
-      "stream": "http://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3"
-    },
-    {
-      "id": "jazz_radio",
-      "name": "Jazz Radio",
-      "genre": "Jazz",
-      "stream": "http://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3",
-      "image": "http://www.jazzradio.fr/apple-touch-icon-120x120.png"
-    },
-    {
-      "id": "radio_fg",
-      "name": "Radio FG",
-      "genre": "Électro",
-      "stream": "https://radiofg.impek.com/ufg.mp3",
-      "image": "https://www.lawebradio.com/news/wp-content/uploads/2017/10/ima2-fgradio-undrgrnd-102017.jpg"
-    },
-    {
-      "id": "oui_fm",
-      "name": "Oui FM",
-      "genre": "Rock",
-      "stream": "https://ouifm.ice.infomaniak.ch/ouifm-high.mp3",
-      "image": "https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/images/favicon.ico"
-    },
-    {
-      "id": "m_radio",
-      "name": "M Radio",
-      "genre": "Chanson française",
-      "stream": "http://mfm.ice.infomaniak.ch/mfm-128.mp3",
-      "image": "https://mradio.fr/apple-touch-icon-120x120.png"
-    },
-    {
-      "id": "g_n_rations",
-      "name": "Générations",
-      "genre": "Rap",
-      "stream": "https://radiosun.ice.infomaniak.ch/radiosun-high.mp3"
-    },
-    {
       "id": "africa_radio",
       "name": "Africa Radio",
       "genre": "Afro",
       "stream": "https://webradio1.ice.infomaniak.ch/webradio4-128.mp3",
-      "image": "https://images.lesindesradios.fr/fit-in/300x2000/filters:format(webp)/radios/africaradio/radiostream/dnV47tflYH/vignette.png"
-    },
-    {
-      "id": "latina",
-      "name": "Latina",
-      "genre": "Latino",
-      "stream": "http://start-latina.ice.infomaniak.ch/start-latina-high.mp3",
-      "image": "https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/latina/images/favicon.ico"
+      "image": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/logos/africa_radio.png"
     },
     {
       "id": "alouette",
       "name": "Alouette",
       "genre": "Variété",
       "stream": "https://alouette.ice.infomaniak.ch/alouette-high.mp3",
-      "image": "https://bocir-prod-bucket.s3.amazonaws.com/radios/alouette/images/favicon.x-icon"
+      "image": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/logos/alouette.png"
+    },
+    {
+      "id": "cherie_fm",
+      "name": "Chérie FM",
+      "genre": "Variété",
+      "stream": "https://cdnradio.streamakaci.com/cheriefm1.mp3",
+      "image": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/logos/cherie_fm.png"
+    },
+    {
+      "id": "europe_1",
+      "name": "Europe 1",
+      "genre": "Généraliste",
+      "stream": "https://europe1.lmn.fm/europe1.mp3",
+      "image": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/logos/europe_1.png"
+    },
+    {
+      "id": "fip",
+      "name": "FIP",
+      "genre": "Éclectique",
+      "stream": "https://icecast.radiofrance.fr/fip-midfi.mp3",
+      "image": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/logos/fip.png"
+    },
+    {
+      "id": "france_culture",
+      "name": "France Culture",
+      "genre": "Culture",
+      "stream": "https://icecast.radiofrance.fr/franceculture-midfi.mp3",
+      "image": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/logos/france_culture.png"
+    },
+    {
+      "id": "france_inter",
+      "name": "France Inter",
+      "genre": "Généraliste",
+      "stream": "https://icecast.radiofrance.fr/franceinter-midfi.mp3",
+      "image": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/logos/france_inter.png"
+    },
+    {
+      "id": "france_musique",
+      "name": "France Musique",
+      "genre": "Classique",
+      "stream": "https://icecast.radiofrance.fr/francemusique-midfi.mp3",
+      "image": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/logos/france_musique.png"
+    },
+    {
+      "id": "franceinfo",
+      "name": "franceinfo",
+      "genre": "Information",
+      "stream": "https://icecast.radiofrance.fr/franceinfo-midfi.mp3",
+      "image": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/logos/franceinfo.png"
+    },
+    {
+      "id": "fun_radio",
+      "name": "Fun Radio",
+      "genre": "Dance",
+      "stream": "https://icecast.funradio.fr/fun-1-44-128",
+      "image": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/logos/fun_radio.png"
+    },
+    {
+      "id": "generations",
+      "name": "Générations",
+      "genre": "Rap",
+      "stream": "https://radiosun.ice.infomaniak.ch/radiosun-high.mp3",
+      "image": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/logos/generations.png"
+    },
+    {
+      "id": "jazz_radio",
+      "name": "Jazz Radio",
+      "genre": "Jazz",
+      "stream": "http://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3",
+      "image": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/logos/jazz_radio.png"
+    },
+    {
+      "id": "latina",
+      "name": "Latina",
+      "genre": "Latino",
+      "stream": "http://start-latina.ice.infomaniak.ch/start-latina-high.mp3",
+      "image": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/logos/latina.png"
+    },
+    {
+      "id": "m_radio",
+      "name": "M Radio",
+      "genre": "Chanson française",
+      "stream": "http://mfm.ice.infomaniak.ch/mfm-128.mp3",
+      "image": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/logos/m_radio.png"
+    },
+    {
+      "id": "mouv",
+      "name": "Mouv",
+      "genre": "Hip-hop",
+      "stream": "https://icecast.radiofrance.fr/mouv-midfi.mp3",
+      "image": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/logos/mouv.png"
+    },
+    {
+      "id": "nostalgie",
+      "name": "Nostalgie",
+      "genre": "Années 80",
+      "stream": "https://streaming.nrjaudio.fm/oug7girb92oc?origine=fluxradios",
+      "image": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/logos/nostalgie.png"
+    },
+    {
+      "id": "nrj",
+      "name": "NRJ",
+      "genre": "Hits",
+      "stream": "https://streaming.nrjaudio.fm/ou5k6tirv93h",
+      "image": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/logos/nrj.png"
+    },
+    {
+      "id": "oui_fm",
+      "name": "Oui FM",
+      "genre": "Rock",
+      "stream": "https://ouifm.ice.infomaniak.ch/ouifm-high.mp3"
+    },
+    {
+      "id": "radio_classique",
+      "name": "Radio Classique",
+      "genre": "Classique",
+      "stream": "https://str0.creacast.com/classique1",
+      "image": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/logos/radio_classique.png"
+    },
+    {
+      "id": "radio_fg",
+      "name": "Radio FG",
+      "genre": "Électro",
+      "stream": "https://radiofg.impek.com/ufg.mp3",
+      "image": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/logos/radio_fg.png"
+    },
+    {
+      "id": "radio_nova",
+      "name": "Radio Nova",
+      "genre": "Éclectique",
+      "stream": "https://novazz.ice.infomaniak.ch/novazz-128.mp3",
+      "image": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/logos/radio_nova.png"
+    },
+    {
+      "id": "radio_scoop",
+      "name": "Radio Scoop",
+      "genre": "Hits",
+      "stream": "http://radioscooplyon.ice.infomaniak.ch/radioscoop-lyon-128.mp3",
+      "image": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/logos/radio_scoop.png"
+    },
+    {
+      "id": "rfi",
+      "name": "RFI",
+      "genre": "Monde",
+      "stream": "http://live02.rfi.fr/rfirusse-96k.mp3",
+      "image": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/logos/rfi.png"
+    },
+    {
+      "id": "rfm",
+      "name": "RFM",
+      "genre": "Variété",
+      "stream": "http://stream.rfm.fr/rfm.mp3",
+      "image": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/logos/rfm.png"
+    },
+    {
+      "id": "rire_et_chansons",
+      "name": "Rire et Chansons",
+      "genre": "Humour",
+      "stream": "https://streaming.nrjaudio.fm/ou8o8xgk7oiu?origine=fluxradios",
+      "image": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/logos/rire_et_chansons.png"
+    },
+    {
+      "id": "rmc",
+      "name": "RMC",
+      "genre": "Généraliste",
+      "stream": "https://hls-rmc.nextradiotv.com/no_ssai/128k/media.m3u8",
+      "image": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/logos/rmc.png"
+    },
+    {
+      "id": "rtl",
+      "name": "RTL",
+      "genre": "Généraliste",
+      "stream": "https://icecast.rtl.fr/rtl-1-44-128",
+      "image": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/logos/rtl.png"
+    },
+    {
+      "id": "rtl2",
+      "name": "RTL2",
+      "genre": "Pop-rock",
+      "stream": "http://icecast.rtl2.fr/rtl2-1-44-128?listen=webCwsBCggNCQgLDQUGBAcGBg",
+      "image": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/logos/rtl2.png"
+    },
+    {
+      "id": "skyrock",
+      "name": "Skyrock",
+      "genre": "Rap",
+      "stream": "https://icecast.skyrock.net/s/natio_mp3_128k",
+      "image": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/logos/skyrock.png"
+    },
+    {
+      "id": "sud_radio",
+      "name": "Sud Radio",
+      "genre": "Généraliste",
+      "stream": "https://ice.creacast.com/sudradio",
+      "image": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/logos/sud_radio.png"
+    },
+    {
+      "id": "tsf_jazz",
+      "name": "TSF Jazz",
+      "genre": "Jazz",
+      "stream": "http://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3",
+      "image": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/logos/tsf_jazz.png"
+    },
+    {
+      "id": "vibration",
+      "name": "Vibration",
+      "genre": "Hits",
+      "stream": "http://vibration.ice.infomaniak.ch/vibration-high.mp3",
+      "image": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/logos/vibration.png"
+    },
+    {
+      "id": "virgin_radio",
+      "name": "Virgin Radio",
+      "genre": "Rock & pop",
+      "stream": "http://virageradio.ice.infomaniak.ch/virageradio-natio.mp3",
+      "image": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/logos/virgin_radio.png"
     },
     {
       "id": "voltage",
       "name": "Voltage",
       "genre": "Dance",
       "stream": "http://start-voltage.ice.infomaniak.ch/start-voltage-high.mp3",
-      "image": "https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/voltage/images/favicon.ico"
-    },
-    {
-      "id": "vibration",
-      "name": "Vibration",
-      "genre": "Hits",
-      "stream": "http://vibration.ice.infomaniak.ch/vibration-high.mp3"
-    },
-    {
-      "id": "radio_scoop",
-      "name": "Radio Scoop",
-      "genre": "Hits",
-      "stream": "http://radioscooplyon.ice.infomaniak.ch/radioscoop-lyon-128.mp3"
+      "image": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/logos/voltage.png"
     }
   ]
 }
