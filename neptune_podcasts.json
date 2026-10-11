@@ -297,7 +297,7 @@
     },
 	{
       "id": "nostalgie",
-      "name": "NOSTALGIE",
+      "name": "Nostalgie",
       "shows": [
         {
         "title": "Nostalgie Vinyle Club",
@@ -316,6 +316,12 @@
 		"author": "Nostalgie France",
 		"feed": "https://aod.nrjaudio.fm/xml/180.xml",
 		"image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ea/3b/f8/ea3bf8cf-d54f-5c27-e319-d881a810ae7d/mza_15218187356946845725.jpg/600x600bb.jpg"
+        },
+		{
+        "title": "L'instant Goldman",
+		"author": "Nostalgie France",
+		"feed": "https://aod.nrjaudio.fm/xml/2442.xml",
+		"image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7b/3f/65/7b3f6578-4a7c-d58f-6963-162d682e8957/mza_9655281972352243780.jpg/600x600bb.jpg"
         }
       ]
     },
