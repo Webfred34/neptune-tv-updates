@@ -6,6 +6,12 @@
       "name": "RTL",
       "shows": [
         {
+		"title": "Laurent Gerra",
+		"author": "RTL",
+		"feed": "https://feeds.audiomeans.fr/feed/b799ffaa-ccee-4a9a-a75f-0137a5787288.xml",
+		"image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/13/21/bf/1321bff3-77cf-aab7-d68b-761a2edd2f84/mza_12458040933458668832.jpg/600x600bb.jpg"
+		},
+		{
           "title": "Les Grosses Têtes",
           "author": "RTL",
           "feed": "https://feeds.audiomeans.fr/feed/d7c6111b-04c1-46bc-b74c-d941a90d37fb.xml",
