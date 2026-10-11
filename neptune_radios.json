@@ -165,7 +165,7 @@
       "id": "rfm",
       "name": "RFM",
       "genre": "Variété",
-      "stream": "http://stream.rfm.fr/rfm.mp3",
+      "stream": "https://rfm.lmn.fm/rfm.mp3",
       "image": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/logos/rfm.png"
     },
     {
