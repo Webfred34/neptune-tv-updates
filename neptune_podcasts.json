@@ -435,6 +435,48 @@
 }
       ]
 		},		
+		{
+      "id": "nova",
+      "name": "NOVA",
+      "shows": [
+{
+  "title": "La dernière",
+  "author": "Radio Nova",
+  "feed": "https://feeds.audiomeans.fr/feed/9f8626d5-a57f-475d-8c0b-43c20fa2e696.xml",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2d/d0/a8/2dd0a8ea-fa70-7a49-520c-c8a7b22c92aa/mza_16637183439268933732.jpg/600x600bb.jpg"
+},
+{
+  "title": "La riposte",
+  "author": "Radio Nova",
+  "feed": "https://feeds.audiomeans.fr/feed/e7e41b26-3a4e-4a58-a4b9-222ff1cdbf51.xml",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6d/09/89/6d098926-6fd4-6a49-d74b-91b58b8c6436/mza_11275663345185166243.jpg/600x600bb.jpg"
+},
+{
+  "title": "OK nova",
+  "author": "Radio Nova",
+  "feed": "https://feeds.audiomeans.fr/feed/559ed66a-2067-49fe-985d-83e1b99dffe5.xml",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b4/11/70/b41170da-8b2d-144a-7b37-bd2319befb0c/mza_13791515859119049191.jpg/600x600bb.jpg"
+},
+{
+  "title": "Nova le matin",
+  "author": "Radio Nova",
+  "feed": "https://feeds.audiomeans.fr/feed/78f5c04e-db64-4a97-bcb7-51a6ab5c75c4.xml",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/da/14/e6/da14e6fe-d2f6-bd4d-18a9-09cad2da99c5/mza_7451800464994256410.jpg/600x600bb.jpg"
+},
+{
+  "title": "Les grands remplaçants",
+  "author": "Radio Nova",
+  "feed": "https://feeds.audiomeans.fr/feed/6272b80f-85d9-4dfe-9425-60523550ff67.xml",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4e/27/03/4e270319-0431-93eb-8e74-69ca379b23ea/mza_3789360174535065316.jpg/600x600bb.jpg"
+},
+{
+  "title": "La matinale de la nuit",
+  "author": "Radio Nova",
+  "feed": "https://feeds.audiomeans.fr/feed/9a12cead-cae4-4450-806a-ec7ebfbd14af.xml",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f1/5b/73/f15b733a-be63-2db3-1dfe-582a952b11e1/mza_17240005119633626497.jpg/600x600bb.jpg"
+}
+      ]
+		},		
 		
 		{
 		"id": "skyrock",
