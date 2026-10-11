@@ -316,16 +316,40 @@
 		"author": "Nostalgie France",
 		"feed": "https://aod.nrjaudio.fm/xml/180.xml",
 		"image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ea/3b/f8/ea3bf8cf-d54f-5c27-e319-d881a810ae7d/mza_15218187356946845725.jpg/600x600bb.jpg"
-        },
-		{
-        "title": "L'instant Goldman",
-		"author": "Nostalgie France",
-		"feed": "https://aod.nrjaudio.fm/xml/2442.xml",
-		"image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7b/3f/65/7b3f6578-4a7c-d58f-6963-162d682e8957/mza_9655281972352243780.jpg/600x600bb.jpg"
         }
       ]
-    },
-
+	},
+	{
+      "id": "rtl2",
+      "name": "RTL2",
+      "shows": [
+        {
+		"title": "Le Double Expresso RTL2",
+		"author": "RTL2",
+		"feed": "https://feeds.audiomeans.fr/feed/5e1ab452-ce46-498c-a094-2cb0f60817f4.xml",
+		"image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7b/d1/52/7bd152c3-39e6-23b6-489e-79666f127592/mza_5034396036540897727.jpg/600x600bb.jpg"
+        },
+		{
+        "title": "RTL2 Classic Rock",
+		"author": "RTL2",
+		"feed": "https://feeds.audiomeans.fr/feed/81b431c0-8a88-4fff-a50e-29659bb93d71.xml",
+		"image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ad/5f/da/ad5fda7b-1832-c5c1-99a7-4388d54352d1/mza_8010864577347147134.jpg/600x600bb.jpg"
+        }
+        {
+        "title": "RTL2 : Pop-Rock Station by Zégut",
+		"author": "RTL2",
+		"feed": "https://feeds.audiomeans.fr/feed/dcd9e569-1d1f-4b13-bdcc-6ddf7738e10d.xml?_=20230113",
+		"image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6d/ab/8b/6dab8b6c-e12c-e229-cfeb-0181474cc8c7/mza_17252308634783921954.jpg/600x600bb.jpg"
+        },
+		{
+        "title": "RTL2 : Made In France",
+		"author": "RTL2",
+		"feed": "https://feeds.audiomeans.fr/feed/bb134cbc-6d33-4f5f-93af-5f52aa77a4ea.xml",
+		"image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a1/69/c2/a169c255-86e9-045b-c5ad-9ef3e1e5338a/mza_17928637573672855141.jpg/600x600bb.jpg"
+        }
+      ]
+	},
+	
     {
       "id": "france_inter",
       "name": "France Inter",
