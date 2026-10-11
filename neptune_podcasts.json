@@ -295,6 +295,31 @@
         }
       ]
     },
+	{
+      "id": "nostalgie",
+      "name": "NOSTALGIE",
+      "shows": [
+        {
+        "title": "Nostalgie Vinyle Club",
+		"author": "Nostalgie France",
+		"feed": "https://aod.nrjaudio.fm/xml/2593.xml",
+		"image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/08/3e/38/083e38dd-e470-42b6-b680-aec4c052f75b/mza_14326742221932577788.jpg/600x600bb.jpg"
+        },
+		{
+        "title": "The Kim Wilde 80s Show",
+		"author": "Nostalgie France",
+		"feed": "https://aod.nrjaudio.fm/xml/2588.xml",
+		"image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a2/0e/6b/a20e6b74-026f-e3bd-94fe-60873c45c2d0/mza_12212066132138359803.jpg/600x600bb.jpg"
+        },
+        {
+        "title": "Les Matins Nostalgie - Philippe & Sandy",
+		"author": "Nostalgie France",
+		"feed": "https://aod.nrjaudio.fm/xml/180.xml",
+		"image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ea/3b/f8/ea3bf8cf-d54f-5c27-e319-d881a810ae7d/mza_15218187356946845725.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+
     {
       "id": "france_inter",
       "name": "France Inter",
