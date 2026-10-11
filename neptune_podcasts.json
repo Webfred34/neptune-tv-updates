@@ -392,10 +392,28 @@
       "name": "BFM",
       "shows": [
 {
+  "title": "Culture IA",
+  "author": "BFM Business",
+  "feed": "https://feeds.simplecast.com/yRFCMe21",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/14/f5/ca/14f5ca5b-47b7-1044-2d68-845896b6c251/mza_9789849841246040244.jpg/600x600bb.jpg"
+},
+{
+  "title": "Les experts",
+  "author": "BFM Business",
+  "feed": "https://feeds.simplecast.com/NBt25pxR",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/16/ec/89/16ec8904-7686-8d0a-b6ae-50455e01cb67/mza_11961399888197878858.jpg/600x600bb.jpg"
+},
+{
   "title": "BFM Bourse",
   "author": "BFM Business",
   "feed": "https://feeds.simplecast.com/dCzX0hyl",
   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/31/80/78/3180787a-fc47-9437-c7e2-452d88190d19/mza_4193998614812459487.jpg/600x600bb.jpg"
+},
+{
+  "title": "USA Today",
+  "author": "BFM Business",
+  "feed": "https://feeds.simplecast.com/_y73h90M",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e4/7f/7b/e47f7b1b-b276-a1f2-d747-19094f738c77/mza_7379981622655338238.jpg/600x600bb.jpg"
 },
 {
   "title": "BFM Politique",
