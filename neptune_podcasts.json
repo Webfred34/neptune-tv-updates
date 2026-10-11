@@ -35,6 +35,11 @@
           "title": "Les Nuits de France Culture",
           "author": "France Culture",
           "feed": "https://radiofrance-podcast.net/podcast09/podcast_4ff3693f-6e66-11e5-8e9e-005056a87c89.xml"
+        },
+        {
+          "title": "Le Masque et la Plume",
+          "author": "France Inter",
+          "feed": "https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/podcast_c266b241-3ed9-47ed-912f-4eabdc2f0275.xml"
         }
       ]
     },
@@ -51,6 +56,11 @@
           "title": "Avoir raison avec...",
           "author": "France Culture",
           "feed": "https://radiofrance-podcast.net/podcast09/podcast_d0620953-0f73-4cc5-9653-8a936be9cef9.xml"
+        },
+        {
+          "title": "Hondelatte Raconte",
+          "author": "Europe 1",
+          "feed": "https://feeds.audiomeans.fr/feed/7773697e-dd5d-4650-808b-158712520883.xml"
         }
       ]
     },
@@ -62,6 +72,28 @@
           "title": "franceinfo junior",
           "author": "franceinfo",
           "feed": "https://radiofrance-podcast.net/podcast09/podcast_d8706bf1-54bf-4402-a1dd-85192a374d43.xml"
+        }
+      ]
+    },
+    {
+      "id": "policier",
+      "name": "Policier et enquête",
+      "shows": [
+        {
+          "title": "L'Heure du Crime",
+          "author": "RTL",
+          "feed": "https://feeds.audiomeans.fr/feed/de5ba943-e720-4988-a518-40404f231ff3.xml"
+        }
+      ]
+    },
+    {
+      "id": "sciences",
+      "name": "Sciences et nature",
+      "shows": [
+        {
+          "title": "La Terre au carré",
+          "author": "France Inter",
+          "feed": "https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/podcast_5e238698-941a-4afc-8883-dbecfda89821.xml"
         }
       ]
     }
