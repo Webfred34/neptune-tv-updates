@@ -6,12 +6,12 @@
       "name": "RTL",
       "shows": [
         {
-		"title": "Laurent Gerra",
-		"author": "RTL",
-		"feed": "https://feeds.audiomeans.fr/feed/b799ffaa-ccee-4a9a-a75f-0137a5787288.xml",
-		"image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/13/21/bf/1321bff3-77cf-aab7-d68b-761a2edd2f84/mza_12458040933458668832.jpg/600x600bb.jpg"
-		},
-		{
+          "title": "Laurent Gerra",
+          "author": "RTL",
+          "feed": "https://feeds.audiomeans.fr/feed/b799ffaa-ccee-4a9a-a75f-0137a5787288.xml",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/13/21/bf/1321bff3-77cf-aab7-d68b-761a2edd2f84/mza_12458040933458668832.jpg/600x600bb.jpg"
+        },
+        {
           "title": "Les Grosses Têtes",
           "author": "RTL",
           "feed": "https://feeds.audiomeans.fr/feed/d7c6111b-04c1-46bc-b74c-d941a90d37fb.xml",
@@ -95,12 +95,12 @@
           "feed": "https://feeds.audiomeans.fr/feed/5799f0c0-d531-402b-8c09-14671fcccfb7.xml",
           "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9b/7a/55/9b7a556d-0fb9-7dda-ea11-165f63dc0c7c/mza_1974649868172344397.jpg/600x600bb.jpg"
         },
-		{
-		"title": "Au Coeur du Crime",
-		"author": "Europe1",
-		"feed": "https://feeds.audiomeans.fr/feed/0b81db9c-9ba5-4faa-921c-3ae8ab7d15e2.xml",
-		"image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/36/df/3d/36df3d01-d518-a87b-e983-84985856bce4/mza_10916289766765414836.jpg/600x600bb.jpg"
-		},
+        {
+          "title": "Au Coeur du Crime",
+          "author": "Europe1",
+          "feed": "https://feeds.audiomeans.fr/feed/0b81db9c-9ba5-4faa-921c-3ae8ab7d15e2.xml",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/36/df/3d/36df3d01-d518-a87b-e983-84985856bce4/mza_10916289766765414836.jpg/600x600bb.jpg"
+        },
         {
           "title": "Julia de Funès - Les signatures d'Europe 1",
           "author": "Europe 1",
@@ -250,6 +250,48 @@
           "author": "RMC",
           "feed": "https://feeds.simplecast.com/KGjrgtqy",
           "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a9/97/4c/a9974c4a-064f-cbe5-4f7f-29b8f637af77/mza_17960818521014067456.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    {
+      "id": "fip",
+      "name": "FIP",
+      "shows": [
+        {
+          "title": "L'histoire secrète du Punk",
+          "author": "FIP",
+          "feed": "https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/podcast_9fde6624-3b18-40c5-b906-1a8241669273.xml",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/57/6f/b8/576fb8d3-fcea-f092-ee08-cf7e3e60ea9b/mza_7792677212708840203.jpg/600x600bb.jpg"
+        },
+        {
+          "title": "Fip Tape",
+          "author": "FIP",
+          "feed": "https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/podcast_6da709ab-470a-4054-97cd-b1241f9fedaa.xml",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/02/63/89/02638908-58f1-7b8d-51c5-5a6ee874d3e6/mza_5606796838703259574.jpg/600x600bb.jpg"
+        },
+        {
+          "title": "Certains l’aiment Fip",
+          "author": "FIP",
+          "feed": "https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/podcast_143dff38-e956-4a5d-8576-1c0b7242b99e.xml",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5a/5b/c1/5a5bc1ee-a965-d95b-c074-edc0f0fddbfc/mza_12768080290056813898.jpg/600x600bb.jpg"
+        },
+        {
+          "title": "Spéciales FIP",
+          "author": "FIP",
+          "feed": "https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/podcast_ea483d20-2b2b-4977-b86c-ba576f40ccbe.xml",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a7/9c/c5/a79cc5b3-6f8d-2e16-4468-277a6ba72cc4/mza_1579287738600768435.jpg/600x600bb.jpg"
+        },
+        {
+          "title": "[DEEP]Search par Laurent Garnier",
+          "author": "FIP",
+          "feed": "https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/podcast_bf68e7d0-a6c6-4852-9986-b30d01811ee4.xml",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/54/0c/7c/540c7cb3-a2b7-c1bd-7bdf-28d9a5fccfd3/mza_9340721870712562262.jpg/600x600bb.jpg"
+        },
+        {
+          "title": "Club Jazzafip",
+          "author": "FIP",
+          "feed": "https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/podcast_13d4ef2f-2aca-4331-949b-bc8da638d670.xml",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f5/f4/7e/f5f47e0c-7a7b-a9d1-1baa-698653b1eb76/mza_955665203226634835.jpg/600x600bb.jpg"
         }
       ]
     },
