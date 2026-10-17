@@ -124,7 +124,8 @@
       "id": "oui_fm",
       "name": "Oui FM",
       "genre": "Rock",
-      "stream": "https://ouifm.ice.infomaniak.ch/ouifm-high.mp3"
+      "stream": "https://ouifm.ice.infomaniak.ch/ouifm-high.mp3",
+      "image": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/logos/oui_fm.png"
     },
     {
       "id": "radio_classique",
