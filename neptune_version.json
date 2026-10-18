@@ -1,6 +1,6 @@
 {
-  "versionCode": 952,
-  "versionName": "1.0.952",
-  "changelog": "Bug fixé suite au retour de Demass\n\nMobile et tablette :\n• Fiche Film et Série : jaquette, synopsis et étiquettes agrandis sur tablette\n• Retour du plein écran TV : la chaîne reste sélectionnée, et son aperçu reprend\n  sans recharger le flux\n\nToutes versions :\n• Le Guide Sport est accessible depuis Médias, sans passer par une chaîne\n• Création d’un profil Stalker : l’adresse MAC est pré-remplie de 00:1A:79:\n• Plus aucune reconnexion au fournisseur pendant la mise en veille de la box\n  (Avec relance automatique de la chaîne en cours après la sortie de la mise en veille)",
-  "downloadUrl": "https://github.com/Webfred34/neptune-tv-updates/releases/download/1.0.952/Neptune_1.0.952.apk"
+  "versionCode": 963,
+  "versionName": "1.0.963",
+  "changelog": "Toutes versions :\n• Tri des Films et des Séries : ordre alphabétique, ajouts récents,\n  ou l'ordre d'origine envoyé par le fournisseur\n• Certains serveurs Stalker renvoyaient un catalogue vide alors que\n  l'abonnement était valide : les chaînes et les films s'affichent à nouveau\n• Bien plus de films reconnus sur leur fiche, et une affiche s'affiche\n  même quand le fournisseur n'en fournit aucune\n• Podcasts : le logo de la station remplace l'icône générique\n• Touches de couleur : cinq destinations de plus — Radios, Podcasts,\n  Guide Sport, Enregistrements et Quitter l'application\n• Interface Web : « Stockage » devient « Médias », comme dans l'application\n\nMobile et tablette :\n• Un bouton pour quitter l'application sur téléphone, sous l'icône de réglages\n• Les fenêtres dont le contenu dépasse affichent un ascenseur,\n  pour qu'on sache qu'il y a une suite plus bas",
+  "downloadUrl": "https://github.com/Webfred34/neptune-tv-updates/releases/download/1.0.963/Neptune_1.0.963.apk"
 }
