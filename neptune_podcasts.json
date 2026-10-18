@@ -4,6 +4,7 @@
     {
       "id": "rtl",
       "name": "RTL",
+      "image": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/logos/rtl.png",
       "shows": [
         {
           "title": "Laurent Gerra",
@@ -88,6 +89,7 @@
     {
       "id": "europe_1",
       "name": "Europe 1",
+      "image": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/logos/europe_1.png",
       "shows": [
         {
           "title": "Les histoires d'amour extraordinaires",
@@ -178,6 +180,7 @@
     {
       "id": "rmc",
       "name": "RMC",
+      "image": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/logos/rmc.png",
       "shows": [
         {
           "title": "L'After Foot",
@@ -256,6 +259,7 @@
     {
       "id": "fip",
       "name": "FIP",
+      "image": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/logos/fip.png",
       "shows": [
         {
           "title": "L'histoire secrète du Punk",
@@ -295,234 +299,238 @@
         }
       ]
     },
-	{
+    {
       "id": "nostalgie",
       "name": "Nostalgie",
+      "image": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/logos/nostalgie.png",
       "shows": [
         {
-        "title": "Nostalgie Vinyle Club",
-		"author": "Nostalgie France",
-		"feed": "https://aod.nrjaudio.fm/xml/2593.xml",
-		"image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/08/3e/38/083e38dd-e470-42b6-b680-aec4c052f75b/mza_14326742221932577788.jpg/600x600bb.jpg"
-        },
-		{
-        "title": "The Kim Wilde 80s Show",
-		"author": "Nostalgie France",
-		"feed": "https://aod.nrjaudio.fm/xml/2588.xml",
-		"image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a2/0e/6b/a20e6b74-026f-e3bd-94fe-60873c45c2d0/mza_12212066132138359803.jpg/600x600bb.jpg"
+          "title": "Nostalgie Vinyle Club",
+          "author": "Nostalgie France",
+          "feed": "https://aod.nrjaudio.fm/xml/2593.xml",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/08/3e/38/083e38dd-e470-42b6-b680-aec4c052f75b/mza_14326742221932577788.jpg/600x600bb.jpg"
         },
         {
-        "title": "Les Matins Nostalgie - Philippe & Sandy",
-		"author": "Nostalgie France",
-		"feed": "https://aod.nrjaudio.fm/xml/180.xml",
-		"image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ea/3b/f8/ea3bf8cf-d54f-5c27-e319-d881a810ae7d/mza_15218187356946845725.jpg/600x600bb.jpg"
+          "title": "The Kim Wilde 80s Show",
+          "author": "Nostalgie France",
+          "feed": "https://aod.nrjaudio.fm/xml/2588.xml",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a2/0e/6b/a20e6b74-026f-e3bd-94fe-60873c45c2d0/mza_12212066132138359803.jpg/600x600bb.jpg"
+        },
+        {
+          "title": "Les Matins Nostalgie - Philippe & Sandy",
+          "author": "Nostalgie France",
+          "feed": "https://aod.nrjaudio.fm/xml/180.xml",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ea/3b/f8/ea3bf8cf-d54f-5c27-e319-d881a810ae7d/mza_15218187356946845725.jpg/600x600bb.jpg"
         }
       ]
-	},
-	{
+    },
+    {
       "id": "rtl2",
       "name": "RTL2",
+      "image": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/logos/rtl2.png",
       "shows": [
         {
-		"title": "Le Double Expresso RTL2",
-		"author": "RTL2",
-		"feed": "https://feeds.audiomeans.fr/feed/5e1ab452-ce46-498c-a094-2cb0f60817f4.xml",
-		"image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7b/d1/52/7bd152c3-39e6-23b6-489e-79666f127592/mza_5034396036540897727.jpg/600x600bb.jpg"
-        },
-		{
-        "title": "RTL2 Classic Rock",
-		"author": "RTL2",
-		"feed": "https://feeds.audiomeans.fr/feed/81b431c0-8a88-4fff-a50e-29659bb93d71.xml",
-		"image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ad/5f/da/ad5fda7b-1832-c5c1-99a7-4388d54352d1/mza_8010864577347147134.jpg/600x600bb.jpg"
+          "title": "Le Double Expresso RTL2",
+          "author": "RTL2",
+          "feed": "https://feeds.audiomeans.fr/feed/5e1ab452-ce46-498c-a094-2cb0f60817f4.xml",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7b/d1/52/7bd152c3-39e6-23b6-489e-79666f127592/mza_5034396036540897727.jpg/600x600bb.jpg"
         },
         {
-        "title": "RTL2 : Pop-Rock Station by Zégut",
-		"author": "RTL2",
-		"feed": "https://feeds.audiomeans.fr/feed/dcd9e569-1d1f-4b13-bdcc-6ddf7738e10d.xml?_=20230113",
-		"image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6d/ab/8b/6dab8b6c-e12c-e229-cfeb-0181474cc8c7/mza_17252308634783921954.jpg/600x600bb.jpg"
+          "title": "RTL2 Classic Rock",
+          "author": "RTL2",
+          "feed": "https://feeds.audiomeans.fr/feed/81b431c0-8a88-4fff-a50e-29659bb93d71.xml",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ad/5f/da/ad5fda7b-1832-c5c1-99a7-4388d54352d1/mza_8010864577347147134.jpg/600x600bb.jpg"
         },
-		{
-        "title": "RTL2 : Made In France",
-		"author": "RTL2",
-		"feed": "https://feeds.audiomeans.fr/feed/bb134cbc-6d33-4f5f-93af-5f52aa77a4ea.xml",
-		"image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a1/69/c2/a169c255-86e9-045b-c5ad-9ef3e1e5338a/mza_17928637573672855141.jpg/600x600bb.jpg"
+        {
+          "title": "RTL2 : Pop-Rock Station by Zégut",
+          "author": "RTL2",
+          "feed": "https://feeds.audiomeans.fr/feed/dcd9e569-1d1f-4b13-bdcc-6ddf7738e10d.xml?_=20230113",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6d/ab/8b/6dab8b6c-e12c-e229-cfeb-0181474cc8c7/mza_17252308634783921954.jpg/600x600bb.jpg"
+        },
+        {
+          "title": "RTL2 : Made In France",
+          "author": "RTL2",
+          "feed": "https://feeds.audiomeans.fr/feed/bb134cbc-6d33-4f5f-93af-5f52aa77a4ea.xml",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a1/69/c2/a169c255-86e9-045b-c5ad-9ef3e1e5338a/mza_17928637573672855141.jpg/600x600bb.jpg"
         }
       ]
-		},
-		
-		{
+    },
+    {
       "id": "rfm",
       "name": "RFM",
+      "image": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/logos/rfm.png",
       "shows": [
         {
-  "title": "RFM Party Mix avec Yann Muller",
-  "author": "RFM",
-  "feed": "https://feeds.audiomeans.fr/feed/c64d974c-d2f9-4e3a-87a0-4180052b9b12.xml",
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/56/b9/b0/56b9b088-9160-67ec-53d5-c05510e3a23c/mza_2588150707312178031.jpg/600x600bb.jpg"
-},
-{
-  "title": "Les interviews du 16/20",
-  "author": "RFM",
-  "feed": "https://feeds.audiomeans.fr/feed/ffda1946-be15-40a0-8769-fe66b1cc4f16.xml",
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8c/88/43/8c884341-aeb0-c2ae-4f18-0d27cd8d3d82/mza_5688953543011534597.jpg/600x600bb.jpg"
-},
-{
-  "title": "Le Meilleur des Réveils - Les podcasts",
-  "author": "RFM",
-  "feed": "https://feeds.audiomeans.fr/feed/8692aaa3-0c7c-4f15-b81f-e81197f250ed.xml?_=1",
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/66/d4/83/66d48385-97c7-8a73-6f78-33534480b1cb/mza_10498195619645833717.jpg/600x600bb.jpg"
-},
-{
-  "title": "1 heure avec...",
-  "author": "RFM",
-  "feed": "https://feeds.audiomeans.fr/feed/5bc1d7c1-0099-4c2e-912f-cd8aa733bf42.xml",
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7d/74/e7/7d74e7c7-d5fd-4362-09b1-acbed7df48cc/mza_15082067184992771458.jpg/600x600bb.jpg"
-},
-{
-  "title": "RFM Party 80 - Le podcast anniversaire",
-  "author": "RFM",
-  "feed": "https://feeds.audiomeans.fr/feed/93dbf60b-055e-46ac-b7be-0483297b6446.xml",
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/66/78/fd/6678fd2f-4690-e7c7-7646-773bb36be62b/mza_3611626249862785320.jpg/600x600bb.jpg"
-}
+          "title": "RFM Party Mix avec Yann Muller",
+          "author": "RFM",
+          "feed": "https://feeds.audiomeans.fr/feed/c64d974c-d2f9-4e3a-87a0-4180052b9b12.xml",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/56/b9/b0/56b9b088-9160-67ec-53d5-c05510e3a23c/mza_2588150707312178031.jpg/600x600bb.jpg"
+        },
+        {
+          "title": "Les interviews du 16/20",
+          "author": "RFM",
+          "feed": "https://feeds.audiomeans.fr/feed/ffda1946-be15-40a0-8769-fe66b1cc4f16.xml",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8c/88/43/8c884341-aeb0-c2ae-4f18-0d27cd8d3d82/mza_5688953543011534597.jpg/600x600bb.jpg"
+        },
+        {
+          "title": "Le Meilleur des Réveils - Les podcasts",
+          "author": "RFM",
+          "feed": "https://feeds.audiomeans.fr/feed/8692aaa3-0c7c-4f15-b81f-e81197f250ed.xml?_=1",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/66/d4/83/66d48385-97c7-8a73-6f78-33534480b1cb/mza_10498195619645833717.jpg/600x600bb.jpg"
+        },
+        {
+          "title": "1 heure avec...",
+          "author": "RFM",
+          "feed": "https://feeds.audiomeans.fr/feed/5bc1d7c1-0099-4c2e-912f-cd8aa733bf42.xml",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7d/74/e7/7d74e7c7-d5fd-4362-09b1-acbed7df48cc/mza_15082067184992771458.jpg/600x600bb.jpg"
+        },
+        {
+          "title": "RFM Party 80 - Le podcast anniversaire",
+          "author": "RFM",
+          "feed": "https://feeds.audiomeans.fr/feed/93dbf60b-055e-46ac-b7be-0483297b6446.xml",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/66/78/fd/6678fd2f-4690-e7c7-7646-773bb36be62b/mza_3611626249862785320.jpg/600x600bb.jpg"
+        }
       ]
-		},
-		
-		{
+    },
+    {
       "id": "bfm",
       "name": "BFM",
+      "image": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/logos/bfm.png",
       "shows": [
-{
-  "title": "Culture IA",
-  "author": "BFM Business",
-  "feed": "https://feeds.simplecast.com/yRFCMe21",
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/14/f5/ca/14f5ca5b-47b7-1044-2d68-845896b6c251/mza_9789849841246040244.jpg/600x600bb.jpg"
-},
-{
-  "title": "Les experts",
-  "author": "BFM Business",
-  "feed": "https://feeds.simplecast.com/NBt25pxR",
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/16/ec/89/16ec8904-7686-8d0a-b6ae-50455e01cb67/mza_11961399888197878858.jpg/600x600bb.jpg"
-},
-{
-  "title": "BFM Bourse",
-  "author": "BFM Business",
-  "feed": "https://feeds.simplecast.com/dCzX0hyl",
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/31/80/78/3180787a-fc47-9437-c7e2-452d88190d19/mza_4193998614812459487.jpg/600x600bb.jpg"
-},
-{
-  "title": "USA Today",
-  "author": "BFM Business",
-  "feed": "https://feeds.simplecast.com/_y73h90M",
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e4/7f/7b/e47f7b1b-b276-a1f2-d747-19094f738c77/mza_7379981622655338238.jpg/600x600bb.jpg"
-},
-{
-  "title": "BFM Politique",
-  "author": "BFMTV",
-  "feed": "https://feeds.simplecast.com/jGeeHPr8",
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/05/19/44/05194435-cdc9-d3ee-099e-8ba7bd9e3f09/mza_6526109117693792226.jpg/600x600bb.jpg"
-},
-{
-  "title": "Podcast des Auto-Entrepreneurs",
-  "author": "BFM Business",
-  "feed": "https://feeds.simplecast.com/FnMZBUZB",
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/57/aa/de/57aade17-6e04-253c-e627-cf32f9220908/mza_14267231035292767886.jpg/600x600bb.jpg"
-},
-{
-  "title": "Podcast des indépendants",
-  "author": "BFM Business",
-  "feed": "https://feeds.simplecast.com/BvZR02iV",
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7a/11/c9/7a11c99a-1a7f-95dd-384b-12adfd3b3da2/mza_13098584102038954887.jpg/600x600bb.jpg"
-}
+        {
+          "title": "Culture IA",
+          "author": "BFM Business",
+          "feed": "https://feeds.simplecast.com/yRFCMe21",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/14/f5/ca/14f5ca5b-47b7-1044-2d68-845896b6c251/mza_9789849841246040244.jpg/600x600bb.jpg"
+        },
+        {
+          "title": "Les experts",
+          "author": "BFM Business",
+          "feed": "https://feeds.simplecast.com/NBt25pxR",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/16/ec/89/16ec8904-7686-8d0a-b6ae-50455e01cb67/mza_11961399888197878858.jpg/600x600bb.jpg"
+        },
+        {
+          "title": "BFM Bourse",
+          "author": "BFM Business",
+          "feed": "https://feeds.simplecast.com/dCzX0hyl",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/31/80/78/3180787a-fc47-9437-c7e2-452d88190d19/mza_4193998614812459487.jpg/600x600bb.jpg"
+        },
+        {
+          "title": "USA Today",
+          "author": "BFM Business",
+          "feed": "https://feeds.simplecast.com/_y73h90M",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e4/7f/7b/e47f7b1b-b276-a1f2-d747-19094f738c77/mza_7379981622655338238.jpg/600x600bb.jpg"
+        },
+        {
+          "title": "BFM Politique",
+          "author": "BFMTV",
+          "feed": "https://feeds.simplecast.com/jGeeHPr8",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/05/19/44/05194435-cdc9-d3ee-099e-8ba7bd9e3f09/mza_6526109117693792226.jpg/600x600bb.jpg"
+        },
+        {
+          "title": "Podcast des Auto-Entrepreneurs",
+          "author": "BFM Business",
+          "feed": "https://feeds.simplecast.com/FnMZBUZB",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/57/aa/de/57aade17-6e04-253c-e627-cf32f9220908/mza_14267231035292767886.jpg/600x600bb.jpg"
+        },
+        {
+          "title": "Podcast des indépendants",
+          "author": "BFM Business",
+          "feed": "https://feeds.simplecast.com/BvZR02iV",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7a/11/c9/7a11c99a-1a7f-95dd-384b-12adfd3b3da2/mza_13098584102038954887.jpg/600x600bb.jpg"
+        }
       ]
-		},		
-		{
+    },
+    {
       "id": "nova",
       "name": "NOVA",
+      "image": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/logos/radio_nova.png",
       "shows": [
-{
-  "title": "La dernière",
-  "author": "Radio Nova",
-  "feed": "https://feeds.audiomeans.fr/feed/9f8626d5-a57f-475d-8c0b-43c20fa2e696.xml",
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2d/d0/a8/2dd0a8ea-fa70-7a49-520c-c8a7b22c92aa/mza_16637183439268933732.jpg/600x600bb.jpg"
-},
-{
-  "title": "La riposte",
-  "author": "Radio Nova",
-  "feed": "https://feeds.audiomeans.fr/feed/e7e41b26-3a4e-4a58-a4b9-222ff1cdbf51.xml",
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6d/09/89/6d098926-6fd4-6a49-d74b-91b58b8c6436/mza_11275663345185166243.jpg/600x600bb.jpg"
-},
-{
-  "title": "OK nova",
-  "author": "Radio Nova",
-  "feed": "https://feeds.audiomeans.fr/feed/559ed66a-2067-49fe-985d-83e1b99dffe5.xml",
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b4/11/70/b41170da-8b2d-144a-7b37-bd2319befb0c/mza_13791515859119049191.jpg/600x600bb.jpg"
-},
-{
-  "title": "Nova le matin",
-  "author": "Radio Nova",
-  "feed": "https://feeds.audiomeans.fr/feed/78f5c04e-db64-4a97-bcb7-51a6ab5c75c4.xml",
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/da/14/e6/da14e6fe-d2f6-bd4d-18a9-09cad2da99c5/mza_7451800464994256410.jpg/600x600bb.jpg"
-},
-{
-  "title": "Les grands remplaçants",
-  "author": "Radio Nova",
-  "feed": "https://feeds.audiomeans.fr/feed/6272b80f-85d9-4dfe-9425-60523550ff67.xml",
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4e/27/03/4e270319-0431-93eb-8e74-69ca379b23ea/mza_3789360174535065316.jpg/600x600bb.jpg"
-},
-{
-  "title": "La matinale de la nuit",
-  "author": "Radio Nova",
-  "feed": "https://feeds.audiomeans.fr/feed/9a12cead-cae4-4450-806a-ec7ebfbd14af.xml",
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f1/5b/73/f15b733a-be63-2db3-1dfe-582a952b11e1/mza_17240005119633626497.jpg/600x600bb.jpg"
-}
-      ]
-		},		
-		
-		{
-		"id": "skyrock",
-		"name": "Skyrock",
-		"shows": [
         {
-		"title": "Planète Rap - L'intégrale",
-		"author": "Skyrock",
-		"feed": "https://feeds.audiomeans.fr/feed/d8c578c4-fcb4-4bd3-8d09-ef80e70ad7e2.xml",
-		"image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/59/1b/79591ba8-d7b7-226d-2260-765413ba00af/mza_9712449580175444249.jpg/600x600bb.jpg"
-		},
-		{
-		"title": "Radio Libre - L'intégrale",
-		"author": "Skyrock",
-		"feed": "https://feeds.audiomeans.fr/feed/2a0c61b7-a0b3-45d7-b09a-e60bf64f2bd0.xml",
-		"image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/59/31/2a/59312a6e-ed45-5435-5683-6e0047603eb9/mza_13381087351563345583.jpg/600x600bb.jpg"
-		},
-		{
-		"title": "Skyrock PLM",
-		"author": "Skyrock",
-		"feed": "https://feeds.audiomeans.fr/feed/e0b77e4c-9620-4a0f-b9a1-1ef44afb48a7.xml",
-		"image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d4/e8/a9/d4e8a928-90bc-ca6d-6f88-6fd759b5899c/mza_651553323811085819.jpg/600x600bb.jpg"
-		},
-		{
-		"title": "L’intégrale du Morning",
-		"author": "Skyrock",
-		"feed": "https://feeds.audiomeans.fr/feed/4613a456-faa9-4ae7-b50c-1e46c0f4a312.xml",
-		"image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/24/3d/2f/243d2f66-3591-c197-0c27-eb15a800b57d/mza_11418669333676389633.jpg/600x600bb.jpg"
-		},
-		{
-		"title": "Le réveil de star",
-		"author": "Skyrock",
-		"feed": "https://feeds.audiomeans.fr/feed/7521861c-6f97-4dbc-b810-ea1d9633b160.xml",
-		"image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/17/25/83/17258367-9eb4-3cc9-b3ec-ca5ba29b0163/mza_4590042736650417814.jpg/600x600bb.jpg"
-		},
-		{
-		"title": "La compil' du Morning",
-		"author": "Skyrock",
-		"feed": "https://feeds.audiomeans.fr/feed/defccc84-25b3-4848-a7e1-1a6e259c54b7.xml",
-		"image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d9/5f/09/d95f092c-05f1-091d-2fae-b43a54fde044/mza_7472163468557314998.png/600x600bb.jpg"
-		}
+          "title": "La dernière",
+          "author": "Radio Nova",
+          "feed": "https://feeds.audiomeans.fr/feed/9f8626d5-a57f-475d-8c0b-43c20fa2e696.xml",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2d/d0/a8/2dd0a8ea-fa70-7a49-520c-c8a7b22c92aa/mza_16637183439268933732.jpg/600x600bb.jpg"
+        },
+        {
+          "title": "La riposte",
+          "author": "Radio Nova",
+          "feed": "https://feeds.audiomeans.fr/feed/e7e41b26-3a4e-4a58-a4b9-222ff1cdbf51.xml",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6d/09/89/6d098926-6fd4-6a49-d74b-91b58b8c6436/mza_11275663345185166243.jpg/600x600bb.jpg"
+        },
+        {
+          "title": "OK nova",
+          "author": "Radio Nova",
+          "feed": "https://feeds.audiomeans.fr/feed/559ed66a-2067-49fe-985d-83e1b99dffe5.xml",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b4/11/70/b41170da-8b2d-144a-7b37-bd2319befb0c/mza_13791515859119049191.jpg/600x600bb.jpg"
+        },
+        {
+          "title": "Nova le matin",
+          "author": "Radio Nova",
+          "feed": "https://feeds.audiomeans.fr/feed/78f5c04e-db64-4a97-bcb7-51a6ab5c75c4.xml",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/da/14/e6/da14e6fe-d2f6-bd4d-18a9-09cad2da99c5/mza_7451800464994256410.jpg/600x600bb.jpg"
+        },
+        {
+          "title": "Les grands remplaçants",
+          "author": "Radio Nova",
+          "feed": "https://feeds.audiomeans.fr/feed/6272b80f-85d9-4dfe-9425-60523550ff67.xml",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4e/27/03/4e270319-0431-93eb-8e74-69ca379b23ea/mza_3789360174535065316.jpg/600x600bb.jpg"
+        },
+        {
+          "title": "La matinale de la nuit",
+          "author": "Radio Nova",
+          "feed": "https://feeds.audiomeans.fr/feed/9a12cead-cae4-4450-806a-ec7ebfbd14af.xml",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f1/5b/73/f15b733a-be63-2db3-1dfe-582a952b11e1/mza_17240005119633626497.jpg/600x600bb.jpg"
+        }
       ]
-		},
-		{
+    },
+    {
+      "id": "skyrock",
+      "name": "Skyrock",
+      "image": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/logos/skyrock.png",
+      "shows": [
+        {
+          "title": "Planète Rap - L'intégrale",
+          "author": "Skyrock",
+          "feed": "https://feeds.audiomeans.fr/feed/d8c578c4-fcb4-4bd3-8d09-ef80e70ad7e2.xml",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/59/1b/79591ba8-d7b7-226d-2260-765413ba00af/mza_9712449580175444249.jpg/600x600bb.jpg"
+        },
+        {
+          "title": "Radio Libre - L'intégrale",
+          "author": "Skyrock",
+          "feed": "https://feeds.audiomeans.fr/feed/2a0c61b7-a0b3-45d7-b09a-e60bf64f2bd0.xml",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/59/31/2a/59312a6e-ed45-5435-5683-6e0047603eb9/mza_13381087351563345583.jpg/600x600bb.jpg"
+        },
+        {
+          "title": "Skyrock PLM",
+          "author": "Skyrock",
+          "feed": "https://feeds.audiomeans.fr/feed/e0b77e4c-9620-4a0f-b9a1-1ef44afb48a7.xml",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d4/e8/a9/d4e8a928-90bc-ca6d-6f88-6fd759b5899c/mza_651553323811085819.jpg/600x600bb.jpg"
+        },
+        {
+          "title": "L’intégrale du Morning",
+          "author": "Skyrock",
+          "feed": "https://feeds.audiomeans.fr/feed/4613a456-faa9-4ae7-b50c-1e46c0f4a312.xml",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/24/3d/2f/243d2f66-3591-c197-0c27-eb15a800b57d/mza_11418669333676389633.jpg/600x600bb.jpg"
+        },
+        {
+          "title": "Le réveil de star",
+          "author": "Skyrock",
+          "feed": "https://feeds.audiomeans.fr/feed/7521861c-6f97-4dbc-b810-ea1d9633b160.xml",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/17/25/83/17258367-9eb4-3cc9-b3ec-ca5ba29b0163/mza_4590042736650417814.jpg/600x600bb.jpg"
+        },
+        {
+          "title": "La compil' du Morning",
+          "author": "Skyrock",
+          "feed": "https://feeds.audiomeans.fr/feed/defccc84-25b3-4848-a7e1-1a6e259c54b7.xml",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d9/5f/09/d95f092c-05f1-091d-2fae-b43a54fde044/mza_7472163468557314998.png/600x600bb.jpg"
+        }
+      ]
+    },
+    {
       "id": "france_inter",
       "name": "France Inter",
+      "image": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/logos/france_inter.png",
       "shows": [
         {
           "title": "Affaires sensibles",
@@ -601,6 +609,7 @@
     {
       "id": "franceinfo",
       "name": "franceinfo",
+      "image": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/logos/franceinfo.png",
       "shows": [
         {
           "title": "Les informés du matin",
@@ -679,6 +688,7 @@
     {
       "id": "france_culture",
       "name": "France Culture",
+      "image": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/logos/france_culture.png",
       "shows": [
         {
           "title": "Le Cours de l'histoire",
@@ -757,6 +767,7 @@
     {
       "id": "rfi",
       "name": "RFI",
+      "image": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/logos/rfi.png",
       "shows": [
         {
           "title": "Journal Monde",
