@@ -1,6 +1,6 @@
 {
-  "versionCode": 968,
-  "versionName": "1.0.968",
-  "changelog": "Toutes versions :\n• Médias : « Stockage local » ne ferme plus l'application, et fonctionne\n  désormais sur Android 7 à 10\n• Documentation : une rubrique s'ouvre en haut, et non à la position de\n  lecture de la précédente (interface Web comprise)\n\nVersion TV :\n• Documentation : Flèche Gauche revient sur la rubrique que l'on vient de lire\n\nMobile et tablette :\n• Réglages › À propos : la vérification des mises à jour est accessible",
-  "downloadUrl": "https://github.com/Webfred34/neptune-tv-updates/releases/download/1.0.968/Neptune_1.0.968.apk"
+  "versionCode": 978,
+  "versionName": "1.0.978",
+  "changelog": "Toutes versions :\n• Interface Web : une playlist qui vient d'être créée devient active\n  immédiatement, sans avoir à la sélectionner ensuite\n• Xtream : les identifiants sont vérifiés avant l'enregistrement, une\n  playlist refusée par le serveur n'est plus enregistrée\n\nVersion TV :\n• Stalker : jauge de progression et bouton Annuler sur les longues listes\n  de films et de séries ; les titres déjà reçus restent affichés\n• Une action cachée permet de télécharger un film :\n  À vous de la découvrir... :)\n\nMobile et tablette :\n• La liste des chaînes ne se charge plus deux fois à l'ouverture",
+  "downloadUrl": "https://github.com/Webfred34/neptune-tv-updates/releases/download/1.0.978/Neptune_1.0.978.apk"
 }
