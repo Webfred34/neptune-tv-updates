@@ -1,6 +1,6 @@
 {
-  "versionCode": 978,
-  "versionName": "1.0.978",
-  "changelog": "Toutes versions :\n• Interface Web : une playlist qui vient d'être créée devient active\n  immédiatement, sans avoir à la sélectionner ensuite\n• Xtream : les identifiants sont vérifiés avant l'enregistrement, une\n  playlist refusée par le serveur n'est plus enregistrée\n\nVersion TV :\n• Stalker : jauge de progression et bouton Annuler sur les longues listes\n  de films et de séries ; les titres déjà reçus restent affichés\n• Une action cachée permet de télécharger un film :\n  À vous de la découvrir... :)\n\nMobile et tablette :\n• La liste des chaînes ne se charge plus deux fois à l'ouverture",
-  "downloadUrl": "https://github.com/Webfred34/neptune-tv-updates/releases/download/1.0.978/Neptune_1.0.978.apk"
+  "versionCode": 984,
+  "versionName": "1.0.984",
+  "changelog": "Médias :\n• les fichiers images (jpeg, etc.) s'affichent beaucoup plus vite, et\n  revenir au fichier précédent est immédiat\n• les formats HEIC, HEIF et AVIF sont à présent reconnus comme des\n  photos et affichés\n• les fichiers texte s'ouvrent au lieu d'être refusés\n  (txt, nfo, log, srt, sub, md, csv, ini, cue)\n• la sélection d'un fichier M3U propose de créer la playlist\n  correspondante et de l'ouvrir dans la foulée\n• une sauvegarde Neptune peut être restaurée directement en\n  sélectionnant un fichier Json de la sauvegarde, avec sa date et son\n  nombre de playlists affichés avant confirmation\n\nInterface Web :\n• une confirmation est demandée avant de restaurer une sauvegarde",
+  "downloadUrl": "https://github.com/Webfred34/neptune-tv-updates/releases/download/1.0.984/Neptune_1.0.984.apk"
 }
