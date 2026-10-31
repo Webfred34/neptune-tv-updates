@@ -1,6 +1,6 @@
 {
-  "versionCode": 984,
-  "versionName": "1.0.984",
-  "changelog": "Médias :\n• les fichiers images (jpeg, etc.) s'affichent beaucoup plus vite, et\n  revenir au fichier précédent est immédiat\n• les formats HEIC, HEIF et AVIF sont à présent reconnus comme des\n  photos et affichés\n• les fichiers texte s'ouvrent au lieu d'être refusés\n  (txt, nfo, log, srt, sub, md, csv, ini, cue)\n• la sélection d'un fichier M3U propose de créer la playlist\n  correspondante et de l'ouvrir dans la foulée\n• une sauvegarde Neptune peut être restaurée directement en\n  sélectionnant un fichier Json de la sauvegarde, avec sa date et son\n  nombre de playlists affichés avant confirmation\n\nInterface Web :\n• une confirmation est demandée avant de restaurer une sauvegarde",
-  "downloadUrl": "https://github.com/Webfred34/neptune-tv-updates/releases/download/1.0.984/Neptune_1.0.984.apk"
+  "versionCode": 999,
+  "versionName": "1.0.999",
+  "changelog": "Médias :\n• Expérimental — « Ma Musique » et « Mes Vidéos » : deux nouvelles\n  entrées qui rassemblent les dossiers audio et vidéo de toutes vos\n  sources. Lisez la documentation qui a été mise à jour.\n• le fond d'écoute reste affiché pendant toute la lecture d'un fichier\n  audio, la pochette s'affichant au centre par-dessus\n• le titre du morceau en cours défile en bas de l'écran\n• un épisode de podcast enchaîne sur le suivant avec la flèche Bas\n\nFilms et séries :\n• changer de catégorie ou de tri pendant un chargement n'affiche plus\n  de message d'erreur à la place des jaquettes",
+  "downloadUrl": "https://github.com/Webfred34/neptune-tv-updates/releases/download/1.0.999/Neptune_1.0.999.apk"
 }
