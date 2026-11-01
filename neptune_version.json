@@ -1,6 +1,6 @@
 {
-  "versionCode": 999,
-  "versionName": "1.0.999",
-  "changelog": "Médias :\n• Expérimental — « Ma Musique » et « Mes Vidéos » : deux nouvelles\n  entrées qui rassemblent les dossiers audio et vidéo de toutes vos\n  sources. Lisez la documentation qui a été mise à jour.\n• le fond d'écoute reste affiché pendant toute la lecture d'un fichier\n  audio, la pochette s'affichant au centre par-dessus\n• le titre du morceau en cours défile en bas de l'écran\n• un épisode de podcast enchaîne sur le suivant avec la flèche Bas\n\nFilms et séries :\n• changer de catégorie ou de tri pendant un chargement n'affiche plus\n  de message d'erreur à la place des jaquettes",
-  "downloadUrl": "https://github.com/Webfred34/neptune-tv-updates/releases/download/1.0.999/Neptune_1.0.999.apk"
+  "versionCode": 1012,
+  "versionName": "1.0.1012",
+  "changelog": "Films et séries :\n• sur certains serveurs, ouvrir une série affichait\n  « Erreur chargement » alors que la liste s'affichait bien :\n  les saisons et les épisodes s'ouvrent maintenant\n\nLecture :\n• un film, un épisode, une radio ou un podcast dont le serveur\n  renvoie vers un hébergeur en https ne démarrait pas du tout :\n  la redirection est maintenant suivie, pour le direct et le\n  replay également\n• un serveur qui annonce le Replay sans le fournir le dit\n  maintenant clairement, au lieu d'une erreur de lecture\n\nMédias :\n• les flèches Gauche et Droite suivent enfin le réglage\n  « Navigation dans la liste de chaînes plein écran », pour les\n  fichiers et les podcasts comme pour les chaînes\n• le curseur revient à sa place en sortant d'un dossier ou du\n  lecteur, sur le morceau réellement écouté\n• la pochette s'affiche avec des coins arrondis\n\nEt pour le plaisir :\n• un requin de bonne humeur traverse l'aquarium de temps en temps\n• Le fond d'écran Aquarium est plus peuplé : deux fois plus de\n  poissons, de bulles et d'herbe au fond",
+  "downloadUrl": "https://github.com/Webfred34/neptune-tv-updates/releases/download/1.0.1012/Neptune_1.0.1012.apk"
 }
