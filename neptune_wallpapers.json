@@ -21,6 +21,13 @@
       "url": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/wallpapers/paysage-noel-bonhomme-neige.mp4",
       "thumbnail": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/wallpapers/paysage-noel-bonhomme-neige.jpg",
       "video": true
+    },
+    {
+      "id": "paysage-enneige-sapin",
+      "name": "Paysage enneigé et sapin de Noël",
+      "url": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/wallpapers/paysage-enneige-sapin-de-noel.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/wallpapers/paysage-enneige-sapin-de-noel.jpg",
+      "video": true
     }
   ]
 }
