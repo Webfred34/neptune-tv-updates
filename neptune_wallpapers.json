@@ -14,6 +14,13 @@
       "url": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/wallpapers/pere-noel-traineau-ciel.mp4",
       "thumbnail": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/wallpapers/pere-noel-traineau-ciel.jpg",
       "video": true
+    },
+    {
+      "id": "paysage-bonhomme-neige",
+      "name": "Paysage de Noël et bonhomme de neige",
+      "url": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/wallpapers/paysage-noel-bonhomme-neige.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/Webfred34/neptune-tv-updates/main/wallpapers/paysage-noel-bonhomme-neige.jpg",
+      "video": true
     }
   ]
 }
