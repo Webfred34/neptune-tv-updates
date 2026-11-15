@@ -1,6 +1,6 @@
 {
-  "versionCode": 1027,
-  "versionName": "1.0.1027",
-  "changelog": "Navigation :\n• Pb télécommande qui ne descendait plus sur la fiche d'une série au\n  retour d'un épisode, après être passé par la recherche vocale\n• en quittant une fiche ouverte depuis une recherche, le curseur\n  revient sur le titre au lieu de repartir du haut de la liste\n• Ma liste et Historique pouvaient s'ouvrir sans curseur\n\nDirect :\n• dans la liste des chaînes et le Zap Historique, une jauge sous\n  le programme en cours montre où il en est\n\nInterface Web :\n• nouvelle page « Gestion de l'appareil » : lister les\n  applications de la box, en désinstaller une, ou installer un\n  APK depuis le PC. Android demande confirmation sur la télé\n• la documentation décrit cette nouvelle page\n\nSur écran tactile :\n• le titre du morceau en cours défile en bas de l'écran, comme\n  sur la télé",
-  "downloadUrl": "https://github.com/Webfred34/neptune-tv-updates/releases/download/1.0.1027/Neptune_1.0.1027.apk"
+  "versionCode": 1037,
+  "versionName": "1.0.1037",
+  "changelog": "Apparence :\n• le fond d'écran personnalisé accepte une vidéo MP4, qui\n  tourne en boucle, sans le son, sur le menu principal\n• nouveau choix « Télécharger un fond d'écran » : des fonds\n  animés à récupérer directement depuis l'application\n• les deux réglages de fond sont regroupés sous « Thème »\n\nAffichage :\n• dans la liste des catégories, un libellé trop long défile\n  quand on s'arrête dessus\n• « Playlists enregistrées » indique le nombre de playlists\n  de l'onglet affiché\n• le bouton Fermer des écrans QR code ne s'étire plus sur\n  toute la largeur\n\nLa documentation a été mise à jour.",
+  "downloadUrl": "https://github.com/Webfred34/neptune-tv-updates/releases/download/1.0.1037/Neptune_1.0.1037.apk"
 }
